@@ -1,0 +1,9 @@
+{
+    "appId": "com.parfumsozlugu.app",
+    "appName": "Parfüm Sözlüğü",
+    "webDir": "dist",
+    "server": {
+        "androidScheme": "https",
+        "url": "https://parfum-app-sigma.vercel.app/"
+    }
+}
