@@ -9,7 +9,7 @@ const FilterModal = ({ isOpen, onClose, onApply, initialFilters }) => {
     const [availableDupeBrands, setAvailableDupeBrands] = useState([]);
     const [availableScentFamilies, setAvailableScentFamilies] = useState([]);
     const [availableSeasons, setAvailableSeasons] = useState([]);
-    const [availableSeasons, setAvailableSeasons] = useState([]);
+
 
     useEffect(() => {
         if (isOpen) {
