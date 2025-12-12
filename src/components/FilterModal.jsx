@@ -35,6 +35,10 @@ const FilterModal = ({ isOpen, onClose, onApply, initialFilters }) => {
             // Let's normalize a bit.
             const uniqueSeasons = [...new Set(seasons)].sort();
 
+            setAvailableBrands(brands);
+            setAvailableNotes(notes);
+            setAvailableDupeBrands(availableDupeBrands);
+            setAvailableScentFamilies(uniqueFamilies);
             setAvailableSeasons(uniqueSeasons);
         }
     }, [isOpen, initialFilters]);
