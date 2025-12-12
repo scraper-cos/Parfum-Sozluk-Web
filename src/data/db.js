@@ -11,7 +11,7 @@ export const originals = [
         season: "Dört Mevsim",
         vibe: "Günlük, Ofis, Spor (Joker)",
         sephoraUrl: "https://www.sephora.com.tr/p/sauvage---parfum-P3973055.html"
-    ,
+        ,
         price: 8475.00,
         originalPrice: 5085,
         originalVolume: 60,
@@ -27,7 +27,7 @@ export const originals = [
         scentFamily: "Şipre / Çiçeksi",
         season: "Dört Mevsim",
         vibe: "Ofis, Şık Davet, İmza Koku"
-    ,
+        ,
         price: 21750,
         originalPrice: 4350,
         originalVolume: 20,
@@ -43,7 +43,7 @@ export const originals = [
         scentFamily: "Meyvemsi / Şipre",
         season: "İlkbahar – Yaz – Sonbahar",
         vibe: "Ofis, Özel Gün, Liderlik"
-    ,
+        ,
         price: 20670.00,
         originalPrice: 20670,
         originalVolume: 100,
@@ -59,7 +59,7 @@ export const originals = [
         scentFamily: "Oryantal / Gurme (Tatlı)",
         season: "Sonbahar – Kış",
         vibe: "Gece, Parti, Date (Randevu)"
-    ,
+        ,
         price: 15000,
         originalPrice: 7500,
         originalVolume: 50,
@@ -75,7 +75,7 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Kış",
         vibe: "Gece, Özel Davet, Gizemli"
-    ,
+        ,
         price: 22300,
         originalPrice: 6690,
         originalVolume: 30,
@@ -91,7 +91,7 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Sonbahar – Kış",
         vibe: "Özel Gün, Lüks Davet"
-    ,
+        ,
         price: 22785.71,
         originalPrice: 15950,
         originalVolume: 70,
@@ -107,7 +107,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Meyvemsi (Gurme)",
         season: "Sonbahar – Kış",
         vibe: "Günlük, Alışveriş, Gezme"
-    ,
+        ,
         price: 37500.00,
         originalPrice: 3750,
         originalVolume: 10,
@@ -123,7 +123,7 @@ export const originals = [
         scentFamily: "Odunsu / Sucul",
         season: "İlkbahar – Yaz",
         vibe: "Spor, Günlük, Genç"
-    ,
+        ,
         price: 10452,
         originalPrice: 5226,
         originalVolume: 50,
@@ -139,7 +139,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "Yaz",
         vibe: "Plaj, Tatil, Günlük (Fresh)"
-    ,
+        ,
         price: 7500.00,
         originalPrice: 7500,
         originalVolume: 100,
@@ -155,7 +155,7 @@ export const originals = [
         scentFamily: "Fujer / Çiçeksi",
         season: "İlkbahar – Sonbahar",
         vibe: "Ofis, Toplantı, Güçlü Kadın"
-    ,
+        ,
         price: 15000,
         originalPrice: 1500,
         originalVolume: 10,
@@ -171,7 +171,7 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Sonbahar – Kış",
         vibe: "Gece, Parti, Seksi"
-    ,
+        ,
         price: 12622,
         originalPrice: 6311,
         originalVolume: 50,
@@ -187,7 +187,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "İlkbahar – Yaz",
         vibe: "Günlük, Ofis, Romantik"
-    ,
+        ,
         price: 27000,
         originalPrice: 5400,
         originalVolume: 20,
@@ -203,7 +203,7 @@ export const originals = [
         scentFamily: "Oryantal / Vanilya",
         season: "Kış",
         vibe: "Gece, Date, Baştan Çıkarıcı"
-    ,
+        ,
         price: 12200,
         originalPrice: 6100,
         originalVolume: 50,
@@ -219,7 +219,7 @@ export const originals = [
         scentFamily: "Odunsu / Aromatik",
         season: "Dört Mevsim",
         vibe: "Ofis, Günlük, Beyefendi"
-    ,
+        ,
         price: 10500,
         originalPrice: 5250,
         originalVolume: 50,
@@ -235,7 +235,7 @@ export const originals = [
         scentFamily: "Oryantal / Odunsu",
         season: "Sonbahar – Kış",
         vibe: "Gece, İddialı, Fark Edilir"
-    ,
+        ,
         price: 14000,
         originalPrice: 4200,
         originalVolume: 30,
@@ -251,7 +251,7 @@ export const originals = [
         scentFamily: "Şipre / Meyvemsi",
         season: "Sonbahar – Kış",
         vibe: "Ofis, Şık, Modern"
-    ,
+        ,
         price: 13166.67,
         originalPrice: 3950,
         originalVolume: 30,
@@ -267,7 +267,7 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Sonbahar – Kış",
         vibe: "Akşam Yemeği, Romantik"
-    ,
+        ,
         price: 13990,
         originalPrice: 6995,
         originalVolume: 50,
@@ -294,7 +294,7 @@ export const originals = [
         scentFamily: "Oryantal / Vanilya",
         season: "Kış",
         vibe: "Gece, Tutkulu, Özel Gün"
-    ,
+        ,
         price: 12800,
         originalPrice: 6400,
         originalVolume: 50,
@@ -310,7 +310,7 @@ export const originals = [
         scentFamily: "Baharatlı / Oryantal",
         season: "Kış",
         vibe: "Şömine Başı, Soğuk Hava, Lüks"
-    ,
+        ,
         price: 79900,
         originalPrice: 7990,
         originalVolume: 10,
@@ -326,7 +326,7 @@ export const originals = [
         scentFamily: "Aromatik / Odunsu",
         season: "İlkbahar – Yaz",
         vibe: "Tatil, Sahil, Rahatlama"
-    ,
+        ,
         price: 10633.33,
         originalPrice: 3190,
         originalVolume: 30,
@@ -342,7 +342,7 @@ export const originals = [
         scentFamily: "Aromatik / Fujer",
         season: "Dört Mevsim (Akşam)",
         vibe: "Club, Parti, Çapkın"
-    ,
+        ,
         price: 10080.00,
         originalPrice: 5040,
         originalVolume: 50,
@@ -369,7 +369,7 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar – Yaz",
         vibe: "Düğün, Nişan, Prenses"
-    ,
+        ,
         price: 19926.67,
         originalPrice: 14945,
         originalVolume: 75,
@@ -385,7 +385,7 @@ export const originals = [
         scentFamily: "Sucul / Aromatik",
         season: "Yaz",
         vibe: "Deniz Kenarı, Sıcak Hava"
-    ,
+        ,
         price: 11200,
         originalPrice: 5600,
         originalVolume: 50,
@@ -401,7 +401,7 @@ export const originals = [
         scentFamily: "Odunsu / Aromatik",
         season: "İlkbahar – Sonbahar",
         vibe: "Ofis, Günlük, Rahat"
-    ,
+        ,
         price: 9874,
         originalPrice: 4937,
         originalVolume: 50,
@@ -417,7 +417,7 @@ export const originals = [
         scentFamily: "Deri / Odunsu",
         season: "Sonbahar – Kış",
         vibe: "Akşam Yemeği, Deri Ceket, Şık"
-    ,
+        ,
         price: 10300,
         originalPrice: 5150,
         originalVolume: 50,
@@ -433,7 +433,7 @@ export const originals = [
         scentFamily: "Aromatik / Fujer",
         season: "Sonbahar – Kış",
         vibe: "Date, Soğuk Hava, Sıcaklık"
-    ,
+        ,
         price: 10600,
         originalPrice: 5300,
         originalVolume: 50,
@@ -449,7 +449,7 @@ export const originals = [
         scentFamily: "Odunsu / Sucul",
         season: "Yaz",
         vibe: "Deniz Kenarı, Özgür Ruh"
-    ,
+        ,
         price: 8583.33,
         originalPrice: 5150,
         originalVolume: 60,
@@ -465,7 +465,7 @@ export const originals = [
         scentFamily: "Odunsu / Baharatlı",
         season: "Sonbahar – İlkbahar",
         vibe: "Ofis, Takım Elbise, Klasik"
-    ,
+        ,
         price: 7576,
         originalPrice: 3788,
         originalVolume: 50,
@@ -481,7 +481,7 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Yaz – Sonbahar",
         vibe: "Akşamüstü, Tanrıça Vibe"
-    ,
+        ,
         price: 11452,
         originalPrice: 5726,
         originalVolume: 50,
@@ -497,7 +497,7 @@ export const originals = [
         scentFamily: "Şipre / Çiçeksi (Bal)",
         season: "Kış",
         vibe: "Gece, Parti, Provokatif"
-    ,
+        ,
         price: 13386,
         originalPrice: 6693,
         originalVolume: 50,
@@ -524,7 +524,7 @@ export const originals = [
         scentFamily: "Oryantal",
         season: "Sonbahar – İlkbahar",
         vibe: "Günlük, Ofis, Pudralı"
-    ,
+        ,
         price: 5900,
         originalPrice: 2950,
         originalVolume: 50,
@@ -551,7 +551,7 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar – Yaz",
         vibe: "Piknik, Hafta Sonu, Rahat"
-    ,
+        ,
         price: 4373,
         originalPrice: 4373,
         originalVolume: 100,
@@ -567,7 +567,7 @@ export const originals = [
         scentFamily: "Odunsu",
         season: "Sonbahar – Kış",
         vibe: "Yağmurlu Hava, Nostaljik"
-    ,
+        ,
         price: 3846,
         originalPrice: 3846,
         originalVolume: 100,
@@ -594,7 +594,7 @@ export const originals = [
         scentFamily: "Aldehitli",
         season: "Dört Mevsim",
         vibe: "Opera, Resepsiyon, Klasik"
-    ,
+        ,
         price: 12428.57,
         originalPrice: 4350,
         originalVolume: 35,
@@ -610,7 +610,7 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "Dört Mevsim",
         vibe: "Ofis, Temizlik Hissi, Anne Şefkati"
-    ,
+        ,
         price: 8600.00,
         originalPrice: 4300,
         originalVolume: 50,
@@ -626,7 +626,7 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "Sonbahar – Kış",
         vibe: "Ofis, Şık, Pudralı/Temiz"
-    ,
+        ,
         price: 11090.00,
         originalPrice: 5545,
         originalVolume: 50,
@@ -642,7 +642,7 @@ export const originals = [
         scentFamily: "Şipre",
         season: "İlkbahar – Sonbahar",
         vibe: "Ofis, Şehir Hayatı, Dinamik"
-    ,
+        ,
         price: 12428.57,
         originalPrice: 4350,
         originalVolume: 35,
@@ -658,7 +658,7 @@ export const originals = [
         scentFamily: "Sucul (Fresh)",
         season: "Yaz",
         vibe: "Plaj, Spor Sonrası, Ferah"
-    ,
+        ,
         price: 1985.00,
         originalPrice: 3970,
         originalVolume: 200,
@@ -674,7 +674,7 @@ export const originals = [
         scentFamily: "Oryantal",
         season: "Kış",
         vibe: "Gece Kulübü, Seksi, Karanlık"
-    ,
+        ,
         price: 12200,
         originalPrice: 6100,
         originalVolume: 50,
@@ -690,7 +690,7 @@ export const originals = [
         scentFamily: "Tatlı (Gurme)",
         season: "Kış",
         vibe: "Gece, Gurme, Tatlı (Nadir)"
-    ,
+        ,
         price: 439.33,
         originalPrice: 659,
         originalVolume: 150,
@@ -706,7 +706,7 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar – Sonbahar",
         vibe: "Günlük Şıklık, Işıltılı"
-    ,
+        ,
         price: 10800,
         originalPrice: 5400,
         originalVolume: 50,
@@ -722,7 +722,7 @@ export const originals = [
         scentFamily: "Şipre",
         season: "Sonbahar – Kış",
         vibe: "Parti, Retro, İddialı"
-    ,
+        ,
         price: 8866.67,
         originalPrice: 6650,
         originalVolume: 75,
@@ -738,7 +738,7 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar",
         vibe: "Brunch, Bahçe Partisi"
-    ,
+        ,
         price: 6447.33,
         originalPrice: 9671,
         originalVolume: 150,
@@ -754,7 +754,7 @@ export const originals = [
         scentFamily: "Oryantal",
         season: "Sonbahar – İlkbahar",
         vibe: "Akşam Yemeği, Altın Vibe"
-    ,
+        ,
         price: 9874,
         originalPrice: 4937,
         originalVolume: 50,
@@ -781,7 +781,7 @@ export const originals = [
         scentFamily: "Sucul (Fresh)",
         season: "İlkbahar – Yaz",
         vibe: "Yağmur Sonrası, Dingin, Zen"
-    ,
+        ,
         price: 6798.67,
         originalPrice: 5099,
         originalVolume: 75,
@@ -797,7 +797,7 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar – Yaz",
         vibe: "Düğün, Altın Gün, Zarif"
-    ,
+        ,
         price: 42200,
         originalPrice: 8440,
         originalVolume: 20,
@@ -813,7 +813,7 @@ export const originals = [
         scentFamily: "Oryantal",
         season: "Sonbahar – Kış",
         vibe: "Gece, Tiyatro, Feminen"
-    ,
+        ,
         price: 11072,
         originalPrice: 5536,
         originalVolume: 50,
@@ -829,7 +829,7 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar – Kış",
         vibe: "Günlük, Pudralı, Özgün"
-    ,
+        ,
         price: 11750.00,
         originalPrice: 5875,
         originalVolume: 50,
@@ -845,7 +845,7 @@ export const originals = [
         scentFamily: "Sucul (Fresh)",
         season: "Yaz",
         vibe: "Çok Sıcak Havalar, Su Gibi"
-    ,
+        ,
         price: 9400.00,
         originalPrice: 4700,
         originalVolume: 50,
@@ -872,7 +872,7 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar – Yaz",
         vibe: "Günlük, Enerjik, Çiçeksi"
-    ,
+        ,
         price: 1000,
         originalPrice: 500,
         originalVolume: 50,
@@ -888,7 +888,7 @@ export const originals = [
         scentFamily: "Oryantal",
         season: "Sonbahar – Kış",
         vibe: "Akşam Yemeği, Büyüleyici"
-    ,
+        ,
         price: 10533.33,
         originalPrice: 7900,
         originalVolume: 75,
@@ -926,8 +926,8 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar",
         vibe: "Ofis, Temiz, Gül Kokusu"
-    
-    ,
+
+        ,
         price: 12616.67,
         originalPrice: 3785,
         originalVolume: 30,
@@ -965,7 +965,7 @@ export const originals = [
         scentFamily: "Sucul / Çiçeksi",
         season: "Yaz",
         vibe: "Tatil, Deniz, Ferah"
-    ,
+        ,
         price: 13000,
         originalPrice: 6500,
         originalVolume: 50,
@@ -981,7 +981,7 @@ export const originals = [
         scentFamily: "Şipre / Çiçeksi",
         season: "Sonbahar – Kış",
         vibe: "Şehir Hayatı, Modern"
-    ,
+        ,
         price: 2750.00,
         originalPrice: 2750,
         originalVolume: 100,
@@ -997,7 +997,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Oryantal",
         season: "Sonbahar – Kış",
         vibe: "Gece, Portakal Çiçeği, Seksi"
-    ,
+        ,
         price: 14400.00,
         originalPrice: 7200,
         originalVolume: 50,
@@ -1024,7 +1024,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Odunsu",
         season: "İlkbahar – Yaz",
         vibe: "Günlük, Hafif, Temiz"
-    ,
+        ,
         price: 8600.00,
         originalPrice: 4300,
         originalVolume: 50,
@@ -1040,8 +1040,8 @@ export const originals = [
         scentFamily: "Çiçeksi / Odunsu",
         season: "Sonbahar – Kış",
         vibe: "Ofis, Odunsu, Karakterli"
-    
-    ,
+
+        ,
         price: 10800.00,
         originalPrice: 5400,
         originalVolume: 50,
@@ -1057,7 +1057,7 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Kış",
         vibe: "Gece Kulübü, Yoğun"
-    ,
+        ,
         price: 5600.00,
         originalPrice: 5600,
         originalVolume: 100,
@@ -1073,7 +1073,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "İlkbahar – Yaz",
         vibe: "Klasik Çiçeksi, Zarif"
-    ,
+        ,
         price: 11200,
         originalPrice: 5600,
         originalVolume: 50,
@@ -1100,7 +1100,7 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar",
         vibe: "Romantik Buluşma, Çiçeksi"
-    ,
+        ,
         price: 14350.00,
         originalPrice: 1435,
         originalVolume: 10,
@@ -1292,7 +1292,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Odunsu",
         season: "İlkbahar – Yaz",
         vibe: "Club, Parti, Çiçeksi/Ferah"
-    ,
+        ,
         price: 8866.67,
         originalPrice: 6650,
         originalVolume: 75,
@@ -1308,7 +1308,7 @@ export const originals = [
         scentFamily: "Şipre / Çiçeksi",
         season: "Sonbahar – Kış",
         vibe: "Güçlü Kadın, Ofis, Şipre"
-    ,
+        ,
         price: 6276.00,
         originalPrice: 6276,
         originalVolume: 100,
@@ -1324,7 +1324,7 @@ export const originals = [
         scentFamily: "Oryantal / Baharatlı",
         season: "Kış",
         vibe: "Gece, Baharatlı, Ağırbaşlı"
-    ,
+        ,
         price: 11376.00,
         originalPrice: 5688,
         originalVolume: 50,
@@ -1362,7 +1362,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Yeşil",
         season: "İlkbahar",
         vibe: "Şehirli, Keskin, Yeşil (Efsane)"
-    ,
+        ,
         price: 31916.67,
         originalPrice: 1915,
         originalVolume: 6,
@@ -1378,7 +1378,7 @@ export const originals = [
         scentFamily: "Odunsu / Çiçeksi",
         season: "Dört Mevsim",
         vibe: "Modern, Temiz, Ofis, İmza"
-    ,
+        ,
         price: 10416.67,
         originalPrice: 6250,
         originalVolume: 60,
@@ -1394,7 +1394,7 @@ export const originals = [
         scentFamily: "Aromatik / Fujer",
         season: "Dört Mevsim",
         vibe: "Ofis, Spor, Maskülen, Metalik"
-    ,
+        ,
         price: 11200,
         originalPrice: 5600,
         originalVolume: 50,
@@ -1410,7 +1410,7 @@ export const originals = [
         scentFamily: "Odunsu / Oryantal",
         season: "Sonbahar – Kış",
         vibe: "Gece, Parti, Tatlı/Karamel"
-    ,
+        ,
         price: 9702,
         originalPrice: 4851,
         originalVolume: 50,
@@ -1426,7 +1426,7 @@ export const originals = [
         scentFamily: "Odunsu / Baharatlı",
         season: "Sonbahar – Kış",
         vibe: "Date (Randevu), Romantik, Klas"
-    ,
+        ,
         price: 10880,
         originalPrice: 5440,
         originalVolume: 50,
@@ -1442,7 +1442,7 @@ export const originals = [
         scentFamily: "Odunsu / Deri",
         season: "Sonbahar – Kış",
         vibe: "Deri Ceket, Asi, Maskülen"
-    ,
+        ,
         price: 9050,
         originalPrice: 4525,
         originalVolume: 50,
@@ -1458,7 +1458,7 @@ export const originals = [
         scentFamily: "Odunsu / Gurme",
         season: "Sonbahar – Kış",
         vibe: "Rock-Chic, Salaş, Kremsi"
-    ,
+        ,
         price: 11450,
         originalPrice: 5725,
         originalVolume: 50,
@@ -1474,7 +1474,7 @@ export const originals = [
         scentFamily: "Odunsu / Çiçeksi",
         season: "Dört Mevsim",
         vibe: "Ten Kokusu, Günlük, Rahat"
-    ,
+        ,
         price: 7500.00,
         originalPrice: 7500,
         originalVolume: 100,
@@ -1490,7 +1490,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "Sonbahar – Kış",
         vibe: "Çekici, Meyvemsi, Akşam"
-    ,
+        ,
         price: 4189.33,
         originalPrice: 3142,
         originalVolume: 75,
@@ -1506,7 +1506,7 @@ export const originals = [
         scentFamily: "Meyvemsi / Gurme",
         season: "İlkbahar – Sonbahar",
         vibe: "Londra Sokakları, Çilekli, Modern"
-    ,
+        ,
         price: 9158.00,
         originalPrice: 4579,
         originalVolume: 50,
@@ -1522,7 +1522,7 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar – Yaz",
         vibe: "Çiçek Bahçesi, Gezme, Pozitif"
-    ,
+        ,
         price: 12166.67,
         originalPrice: 3650,
         originalVolume: 30,
@@ -1538,7 +1538,7 @@ export const originals = [
         scentFamily: "Fujer / Oryantal",
         season: "Sonbahar – Kış",
         vibe: "Toplantı, Gece, Güçlü, Vanilya"
-    ,
+        ,
         price: 15666.67,
         originalPrice: 4700,
         originalVolume: 30,
@@ -1554,7 +1554,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "İlkbahar – Yaz",
         vibe: "Lüks Davet, Niş, Çiçeksi"
-    ,
+        ,
         price: 22880.00,
         originalPrice: 11440,
         originalVolume: 50,
@@ -1570,7 +1570,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Amber",
         season: "Dört Mevsim",
         vibe: "Trend, Günlük, Şık, Tatlı"
-    ,
+        ,
         price: 15333.33,
         originalPrice: 4600,
         originalVolume: 30,
@@ -1586,7 +1586,7 @@ export const originals = [
         scentFamily: "Şipre / Çiçeksi",
         season: "İlkbahar",
         vibe: "Ofis, Temiz, İnce Gül, Modern"
-    ,
+        ,
         price: 10800,
         originalPrice: 5400,
         originalVolume: 50,
@@ -1602,7 +1602,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "Sonbahar – Kış",
         vibe: "Aşk, Tatlı, Meyvemsi, Sıcak"
-    ,
+        ,
         price: 10080,
         originalPrice: 5040,
         originalVolume: 50,
@@ -1618,7 +1618,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Fresh",
         season: "İlkbahar – Yaz",
         vibe: "Günlük, Temiz, Işıltılı"
-    ,
+        ,
         price: 11200,
         originalPrice: 5600,
         originalVolume: 50,
@@ -1634,7 +1634,7 @@ export const originals = [
         scentFamily: "Oryantal / Baharatlı",
         season: "Sonbahar – Kış",
         vibe: "Gece, Gizemli, Hindistan Cevizi"
-    ,
+        ,
         price: 10480,
         originalPrice: 5240,
         originalVolume: 50,
@@ -1650,7 +1650,7 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar",
         vibe: "Düğün, Zarif, Prenses"
-    ,
+        ,
         price: 10480.00,
         originalPrice: 5240,
         originalVolume: 50,
@@ -1666,7 +1666,7 @@ export const originals = [
         scentFamily: "Meyvemsi / Şipre",
         season: "Yaz – Sonbahar",
         vibe: "Plaj Partisi, İddialı, Meyvemsi"
-    ,
+        ,
         price: 13945.00,
         originalPrice: 13945,
         originalVolume: 100,
@@ -1682,7 +1682,7 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Sonbahar – Kış",
         vibe: "Genç, Baharatlı, Ruj Kokusu"
-    ,
+        ,
         price: 12167.58,
         originalPrice: 6083.79,
         originalVolume: 50,
@@ -1709,7 +1709,7 @@ export const originals = [
         scentFamily: "Şipre / Çiçeksi",
         season: "İlkbahar – Yaz",
         vibe: "Hafif, Şehirli, Meyvemsi"
-    ,
+        ,
         price: 9102,
         originalPrice: 4551,
         originalVolume: 50,
@@ -1725,7 +1725,7 @@ export const originals = [
         scentFamily: "Odunsu / Gurme",
         season: "Sonbahar – Kış",
         vibe: "Genç, Enerjik, Fındıklı, Tatlı"
-    ,
+        ,
         price: 16532,
         originalPrice: 8266,
         originalVolume: 50,
@@ -1741,7 +1741,7 @@ export const originals = [
         scentFamily: "Meyvemsi / Amber",
         season: "Yaz – Sonbahar",
         vibe: "Açık Hava, Festival, Narenciye"
-    ,
+        ,
         price: 16533.33,
         originalPrice: 12400,
         originalVolume: 75,
@@ -1757,7 +1757,7 @@ export const originals = [
         scentFamily: "Oryantal / Gurme",
         season: "Sonbahar – Kış",
         vibe: "Baştan Çıkarıcı, Armut, Vanilya"
-    ,
+        ,
         price: 16532.00,
         originalPrice: 8266,
         originalVolume: 50,
@@ -1773,7 +1773,7 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "İlkbahar – Sonbahar",
         vibe: "Lüks Davet, Sümbülteber, Oryantal"
-    ,
+        ,
         price: 16533.33,
         originalPrice: 12400,
         originalVolume: 75,
@@ -1789,7 +1789,7 @@ export const originals = [
         scentFamily: "Odunsu / Çiçeksi",
         season: "Kış",
         vibe: "Niş, Sanatsal, Odunsu, Ağır"
-    ,
+        ,
         price: 17245.00,
         originalPrice: 17245,
         originalVolume: 100,
@@ -1805,7 +1805,7 @@ export const originals = [
         scentFamily: "Meyvemsi / Baharatlı",
         season: "Sonbahar – Kış",
         vibe: "Meyvemsi, Amber, Kalıcı"
-    ,
+        ,
         price: 30155.00,
         originalPrice: 30155,
         originalVolume: 100,
@@ -1821,7 +1821,7 @@ export const originals = [
         scentFamily: "Amber / Çiçeksi",
         season: "Sonbahar – Kış",
         vibe: "İtalyan Cazibesi, Altın, Amber"
-    ,
+        ,
         price: 15322,
         originalPrice: 7661,
         originalVolume: 50,
@@ -1837,7 +1837,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Gurme",
         season: "Sonbahar",
         vibe: "Yumuşak, Pijama Partisi, Vanilya"
-    ,
+        ,
         price: 5040,
         originalPrice: 5040,
         originalVolume: 100,
@@ -1853,7 +1853,7 @@ export const originals = [
         scentFamily: "Meyvemsi / Gurme",
         season: "Sonbahar – Kış",
         vibe: "Kremsi, Çilekli Milkshake, Yoğun"
-    ,
+        ,
         price: 19825,
         originalPrice: 3965,
         originalVolume: 20,
@@ -1869,7 +1869,7 @@ export const originals = [
         scentFamily: "Amber / Çiçeksi",
         season: "Sonbahar",
         vibe: "Şık Akşam Yemeği, Sıcak"
-    ,
+        ,
         price: 13250,
         originalPrice: 3975,
         originalVolume: 30,
@@ -1885,7 +1885,7 @@ export const originals = [
         scentFamily: "Gurme / Narenciye",
         season: "Sonbahar – Kış",
         vibe: "Gurme, Limonlu Kek, Neşeli"
-    ,
+        ,
         price: 13408,
         originalPrice: 6704,
         originalVolume: 50,
@@ -1901,7 +1901,7 @@ export const originals = [
         scentFamily: "Şipre / Çiçeksi",
         season: "İlkbahar – Sonbahar",
         vibe: "Özgür Ruh, Seyahat, Şipre"
-    ,
+        ,
         price: 13250.00,
         originalPrice: 3975,
         originalVolume: 30,
@@ -1917,7 +1917,7 @@ export const originals = [
         scentFamily: "Gurme / Tuzlu",
         season: "Yaz",
         vibe: "Deniz Kenarı, Tuzlu, Tanrıça"
-    ,
+        ,
         price: 13408.00,
         originalPrice: 6704,
         originalVolume: 50,
@@ -1933,7 +1933,7 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Sonbahar – Kış",
         vibe: "Parti, Pamuk Şeker, Çekici"
-    ,
+        ,
         price: 11600,
         originalPrice: 3480,
         originalVolume: 30,
@@ -1949,7 +1949,7 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "Kış",
         vibe: "Kırmızı Halı, Biberli, İddialı"
-    ,
+        ,
         price: 9802,
         originalPrice: 4901,
         originalVolume: 50,
@@ -1965,7 +1965,7 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Sonbahar – Kış",
         vibe: "Gece, Odunsu, Oryantal"
-    ,
+        ,
         price: 11600.00,
         originalPrice: 3480,
         originalVolume: 30,
@@ -1981,7 +1981,7 @@ export const originals = [
         scentFamily: "Aromatik / Gurme",
         season: "Sonbahar – Kış",
         vibe: "Sakin Güç, Lavanta, Vanilya"
-    ,
+        ,
         price: 10133.33,
         originalPrice: 3040,
         originalVolume: 30,
@@ -1997,7 +1997,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "Kış",
         vibe: "Gece, Derin, Egzotik"
-    ,
+        ,
         price: 7500.00,
         originalPrice: 7500,
         originalVolume: 100,
@@ -2013,7 +2013,7 @@ export const originals = [
         scentFamily: "Meyvemsi / Çiçeksi",
         season: "Yaz",
         vibe: "Gündüz, Enerjik, Meyvemsi, Genç"
-    ,
+        ,
         price: 13333.33,
         originalPrice: 4000,
         originalVolume: 30,
@@ -2029,7 +2029,7 @@ export const originals = [
         scentFamily: "Gurme / Meyvemsi",
         season: "Sonbahar – Kış",
         vibe: "Gece, Randevu (Date), Kirazlı & Çekici"
-    ,
+        ,
         price: 13333.33,
         originalPrice: 4000,
         originalVolume: 30,
@@ -2045,7 +2045,7 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Sonbahar – Kış",
         vibe: "Özel Gün, Yoğun, Tatlı, Ahududu"
-    ,
+        ,
         price: 14400,
         originalPrice: 7200,
         originalVolume: 50,
@@ -2061,7 +2061,7 @@ export const originals = [
         scentFamily: "Meyvemsi / Çiçeksi",
         season: "İlkbahar – Sonbahar",
         vibe: "Ofis, Şık, Tutkulu, Kırmızı Ruj Havası"
-    ,
+        ,
         price: 13900.00,
         originalPrice: 6950,
         originalVolume: 50,
@@ -2077,7 +2077,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Narenciye",
         season: "Sonbahar – Kış",
         vibe: "Gece, Gizemli, Davet, Portakal Çiçeği"
-    ,
+        ,
         price: 11500,
         originalPrice: 5750,
         originalVolume: 50,
@@ -2104,7 +2104,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Odunsu",
         season: "Dört Mevsim",
         vibe: "Ofis, Modern, Ferah, Altın Şıklığı"
-    ,
+        ,
         price: 11500.00,
         originalPrice: 5750,
         originalVolume: 50,
@@ -2120,7 +2120,7 @@ export const originals = [
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "Yaz",
         vibe: "Plaj, Tatil, Güneşli, Tropikal"
-    ,
+        ,
         price: 2780.00,
         originalPrice: 1390,
         originalVolume: 50,
@@ -2136,12 +2136,189 @@ export const originals = [
         scentFamily: "Çiçeksi / Odunsu",
         season: "Sonbahar – Kış",
         vibe: "Şık Akşam Yemeği, Klasik, Beyaz Çiçek"
-    ,
+        ,
         price: 14322.86,
         originalPrice: 5013,
         originalVolume: 35,
         productUrl: "https://www.sephora.com.tr/p/l-interdit-edp-P3444023.html"
     }
+    },
+{
+    id: 148,
+        brand: "Calvin Klein",
+            name: "CK2",
+                gender: "Unisex",
+                    notes: "Wasabi, Mandalina, Menekşe Yaprağı, Islak Taş Akoru, Süsen Kökü",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Odunsu / Aromatik (Ferah)",
+                                season: "Yaz",
+                                    vibe: "Gündüz, Spor, Dinamik"
+},
+{
+    id: 149,
+        brand: "Frédéric Malle",
+            name: "Lipstick Rose",
+                gender: "Kadın",
+                    notes: "Greyfurt, Menekşe, Gül, İris, Ahududu, Vanilya",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Çiçeksi (Pudralı)",
+                                season: "Sonbahar / Kış",
+                                    vibe: "Gündüz, Romantik, Nostaljik"
+},
+{
+    id: 150,
+        brand: "Estée Lauder",
+            name: "Bronze Goddess",
+                gender: "Kadın",
+                    notes: "Hindistan Cevizi Suyu, Bergamot, Tiare Çiçeği, Sandal Ağacı",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Çiçeksi / Amber (Solar)",
+                                season: "Yaz",
+                                    vibe: "Plaj, Tatil, Güneşli"
+},
+{
+    id: 151,
+        brand: "Hermès",
+            name: "Le Jardin de Monsieur Li",
+                gender: "Unisex",
+                    notes: "Kamkat (Kumkuat), Bergamot, Yasemin, Bitkisel Notalar",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Turunçgil / Aromatik",
+                                season: "Yaz",
+                                    vibe: "Gündüz, Dışarı, Ferah"
+},
+{
+    id: 152,
+        brand: "Hermès",
+            name: "Eau des Merveilles",
+                gender: "Kadın",
+                    notes: "Elemi Reçinesi, Acı Portakal, Amber, Karabiber, Sedir Ağacı",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Odunsu / Amber",
+                                season: "Sonbahar",
+                                    vibe: "Gündüz, Ofis, Sofistike"
+},
+{
+    id: 153,
+        brand: "Kilian",
+            name: "Love, Don't Be Shy",
+                gender: "Kadın",
+                    notes: "Neroli, Bergamot, Portakal Çiçeği, Gül, Marshmallow",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Oryantal / Gurme (Tatlı)",
+                                season: "Sonbahar / Kış",
+                                    vibe: "Romantik Buluşma, Tatlı, Çekici"
+},
+{
+    id: 154,
+        brand: "Mancera",
+            name: "Wild Python",
+                gender: "Kadın",
+                    notes: "Sümbülteber, Şeftali, Bergamot, Yasemin, Portakal Çiçeği",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Çiçeksi / Şipre",
+                                season: "İlkbahar / Yaz",
+                                    vibe: "Özel Davet, Vahşi, Çiçeksi"
+},
+{
+    id: 155,
+        brand: "Givenchy",
+            name: "Irresistible",
+                gender: "Kadın",
+                    notes: "Armut, Misk Ebegümeci (Ambrette), Gül Esansı, İris",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Çiçeksi / Meyvemsi",
+                                season: "İlkbahar",
+                                    vibe: "Gündüz, Neşeli, Genç"
+},
+{
+    id: 156,
+        brand: "Gucci",
+            name: "Flora Eau Fraiche",
+                gender: "Kadın",
+                    notes: "Bergamot, Limon, Kamkat, Gül, Osmanthus, Yeşil Notalar",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Çiçeksi / Su",
+                                season: "Yaz",
+                                    vibe: "Gündüz, Ferah, Çiçeksi"
+},
+{
+    id: 157,
+        brand: "Tom Ford",
+            name: "Lost Cherry",
+                gender: "Unisex",
+                    notes: "Kara Kiraz, Acı Badem, Vişne Likörü, Türk Gülü, Yasemin",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Oryantal / Çiçeksi",
+                                season: "Sonbahar / Kış",
+                                    vibe: "Gece, Özel Yemek, Lüks"
+},
+{
+    id: 158,
+        brand: "YSL",
+            name: "Black Opium Neon",
+                gender: "Kadın",
+                    notes: "Ejder Meyvesi (Pitaya), Mandalina, Portakal Çiçeği, Yasemin, Kahve",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Oryantal / Vanilya",
+                                season: "Kış",
+                                    vibe: "Gece, Neon, Enerjik"
+},
+{
+    id: 159,
+        brand: "Gucci",
+            name: "Guilty Absolute (Femme)",
+                gender: "Kadın",
+                    notes: "Böğürtlen, Bergamot, Pembe Biber, Bulgar Gülü, Selvi",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Odunsu / Şipre",
+                                season: "Kış",
+                                    vibe: "Gece, Gizemli, Odunsu"
+},
+{
+    id: 160,
+        brand: "YSL",
+            name: "Libre Eau de Toilette",
+                gender: "Kadın",
+                    notes: "Mandalina, Bergamot, Lavanta, Portakal Çiçeği, Yasemin Çayı",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Çiçeksi (Fujer)",
+                                season: "ilkbahar / Sonbahar",
+                                    vibe: "Gündüz, Ofis, Hafif"
+},
+{
+    id: 161,
+        brand: "Jo Malone",
+            name: "Orange Blossom",
+                gender: "Unisex",
+                    notes: "Klementin Çiçeği, Ağaç Kavunu, Portakal Çiçeği, Nilüfer",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Çiçeksi",
+                                season: "İlkbahar / Yaz",
+                                    vibe: "Gündüz, Bahçe, Taze"
+},
+{
+    id: 162,
+        brand: "Dolce & Gabbana",
+            name: "Light Blue",
+                gender: "Kadın",
+                    notes: "Sicilya Limonu, Yeşil Elma, Yaban Sümbülü, Yasemin, Bambu",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Çiçeksi / Meyvemsi",
+                                season: "Yaz",
+                                    vibe: "Gündüz, Tatil, Deniz"
+},
+{
+    id: 163,
+        brand: "Montblanc",
+            name: "Signature",
+                gender: "Kadın",
+                    notes: "Klementin (Mandalina), Manolya, Ylang-Ylang, Şakayık, Vanilya",
+                        image: "/parfumler/default.jpg",
+                            scentFamily: "Çiçeksi / Amber",
+                                season: "Sonbahar / Kış",
+                                    vibe: "Gündüz, Ofis, Temiz/Kremsi"
+}
 ];
 
 export const dupes = [
@@ -2771,6 +2948,81 @@ export const dupes = [
 
     // Givenchy L’Interdit (ID: 147)
     { id: 14701, originalId: 147, brand: "MAD", code: "G104", similarity: 95 }
+    },
+
+// --- ZARA İTHAL LİSTE (YENİ) ---
+
+// Lancôme La Vie Est Belle Intensément (ID: 141)
+{ id: 14102, originalId: 141, brand: "Zara", code: "Majestic Opulence", similarity: 90 },
+
+// Calvin Klein CK2 (ID: 148)
+{ id: 14801, originalId: 148, brand: "Zara", code: "Salty Ocean Bouquet", similarity: 90 },
+
+// Frédéric Malle Lipstick Rose (ID: 149)
+{ id: 14901, originalId: 149, brand: "Zara", code: "Sense of Glam", similarity: 90 },
+
+// Giorgio Armani My Way (ID: 105)
+{ id: 10502, originalId: 105, brand: "Zara", code: "Sublime Epoque", similarity: 90 },
+
+// Estée Lauder Bronze Goddess (ID: 150)
+{ id: 15001, originalId: 150, brand: "Zara", code: "Soleil Decade", similarity: 90 },
+
+// YSL Black Opium (ID: 4)
+{ id: 406, originalId: 4, brand: "Zara", code: "Supreme Vanilla", similarity: 90 },
+
+// Hermès Le Jardin de Monsieur Li (ID: 151)
+{ id: 15101, originalId: 151, brand: "Zara", code: "Waterfall Brume", similarity: 90 },
+
+// Hermès Eau des Merveilles (ID: 152)
+{ id: 15201, originalId: 152, brand: "Zara", code: "Amber & Fig Cashmere", similarity: 90 },
+
+// Kilian Love, Don't Be Shy (ID: 153)
+{ id: 15301, originalId: 153, brand: "Zara", code: "Barbie", similarity: 90 },
+
+// Gucci Rush (ID: 47)
+{ id: 4703, originalId: 47, brand: "Zara", code: "Black Dart", similarity: 90 },
+
+// Mancera Wild Python (ID: 154)
+{ id: 15401, originalId: 154, brand: "Zara", code: "Bois Soleil", similarity: 90 },
+
+// Givenchy Irresistible (ID: 155)
+{ id: 15501, originalId: 155, brand: "Zara", code: "Captivatingly Paris", similarity: 90 },
+
+// Gucci Flora Gorgeous Gardenia (ID: 48)
+{ id: 4802, originalId: 48, brand: "Zara", code: "Cashmere Rose", similarity: 90 },
+
+// Gucci Flora Eau Fraiche (ID: 156)
+{ id: 15601, originalId: 156, brand: "Zara", code: "Cherry Sling", similarity: 90 },
+
+// Tom Ford Lost Cherry (ID: 157)
+{ id: 15701, originalId: 157, brand: "Zara", code: "Cherry Smoothie", similarity: 90 },
+
+// YSL Black Opium Neon (ID: 158)
+{ id: 15801, originalId: 158, brand: "Zara", code: "Crispy Gardenia", similarity: 90 },
+
+// Gucci Guilty Absolute (Femme) (ID: 159)
+{ id: 15901, originalId: 159, brand: "Zara", code: "Endless Oud", similarity: 90 },
+
+// YSL Libre Eau de Toilette (ID: 160)
+{ id: 16001, originalId: 160, brand: "Zara", code: "Evening Maiden Orchid", similarity: 90 },
+
+// Jo Malone Orange Blossom (ID: 161)
+{ id: 16101, originalId: 161, brand: "Zara", code: "Fleur d'Oranger", similarity: 90 },
+
+// Dolce & Gabbana Light Blue (ID: 162)
+{ id: 16201, originalId: 162, brand: "Zara", code: "Forget Me Not", similarity: 90 },
+
+// Montblanc Signature (ID: 163)
+{ id: 16301, originalId: 163, brand: "Zara", code: "Frosted Cream", similarity: 90 },
+
+// Burberry Her (ID: 104)
+{ id: 10402, originalId: 104, brand: "Zara", code: "Go Fruity", similarity: 90 },
+
+// Dior Hypnotic Poison (ID: 13)
+{ id: 1307, originalId: 13, brand: "Zara", code: "Hypnotic Vanilla", similarity: 90 },
+
+// Dior Miss Dior Blooming Bouquet (ID: 114)
+{ id: 11402, originalId: 114, brand: "Zara", code: "Lightly Bloom", similarity: 90 }
 ];
 
 export const getOriginals = () => originals;
