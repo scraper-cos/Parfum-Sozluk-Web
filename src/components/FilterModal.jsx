@@ -9,7 +9,7 @@ const FilterModal = ({ isOpen, onClose, onApply, initialFilters }) => {
     const [availableDupeBrands, setAvailableDupeBrands] = useState([]);
     const [availableScentFamilies, setAvailableScentFamilies] = useState([]);
     const [availableSeasons, setAvailableSeasons] = useState([]);
-    const [availableVibes, setAvailableVibes] = useState([]);
+    const [availableSeasons, setAvailableSeasons] = useState([]);
 
     useEffect(() => {
         if (isOpen) {
@@ -35,17 +35,7 @@ const FilterModal = ({ isOpen, onClose, onApply, initialFilters }) => {
             // Let's normalize a bit.
             const uniqueSeasons = [...new Set(seasons)].sort();
 
-            // Extract Vibes
-            const vibes = originals.flatMap(o => (o.vibe || '').split(',').map(v => v.trim())).filter(Boolean);
-            const uniqueVibes = [...new Set(vibes)].sort();
-
-
-            setAvailableBrands(brands);
-            setAvailableNotes(notes);
-            setAvailableDupeBrands(availableDupeBrands);
-            setAvailableScentFamilies(uniqueFamilies);
             setAvailableSeasons(uniqueSeasons);
-            setAvailableVibes(uniqueVibes);
         }
     }, [isOpen, initialFilters]);
 
@@ -65,7 +55,7 @@ const FilterModal = ({ isOpen, onClose, onApply, initialFilters }) => {
     };
 
     const handleReset = () => {
-        setFilters({ brands: [], genders: [], notes: [], dupeBrands: [], scentFamilies: [], seasons: [], vibes: [] });
+        setFilters({ brands: [], genders: [], notes: [], dupeBrands: [], scentFamilies: [], seasons: [] });
     };
 
     if (!isOpen) return null;
@@ -159,30 +149,7 @@ const FilterModal = ({ isOpen, onClose, onApply, initialFilters }) => {
                     </div>
                 </div>
 
-                {/* Vibe Section (NEW) */}
-                <div style={{ marginBottom: '24px' }}>
-                    <h3 style={{ fontSize: '16px', marginBottom: '12px', color: 'var(--text-muted)' }}>Kullanım Ortamı (Vibe)</h3>
-                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
-                        {availableVibes.map(vibe => (
-                            <button
-                                key={vibe}
-                                onClick={() => toggleFilter('vibes', vibe)}
-                                style={{
-                                    padding: '6px 12px',
-                                    borderRadius: '8px',
-                                    border: filters.vibes?.includes(vibe) ? '1px solid var(--primary)' : '1px solid var(--border-subtle)',
-                                    backgroundColor: filters.vibes?.includes(vibe) ? 'rgba(212, 175, 55, 0.1)' : 'rgba(255,255,255,0.03)',
-                                    color: filters.vibes?.includes(vibe) ? 'var(--primary)' : 'var(--text-secondary)',
-                                    cursor: 'pointer',
-                                    fontSize: '13px',
-                                    transition: 'all 0.2s'
-                                }}
-                            >
-                                {vibe}
-                            </button>
-                        ))}
-                    </div>
-                </div>
+
 
                 {/* Scent Family Section */}
                 <div style={{ marginBottom: '24px' }}>

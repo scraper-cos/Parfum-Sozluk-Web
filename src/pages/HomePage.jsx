@@ -22,8 +22,7 @@ const HomePage = () => {
             notes: [],
             dupeBrands: [],
             scentFamilies: [],
-            seasons: [],
-            vibes: []
+            seasons: []
         };
         return saved ? { ...defaults, ...JSON.parse(saved) } : defaults;
     });
@@ -113,11 +112,9 @@ const HomePage = () => {
         const matchesSeason = selectedFilters.seasons?.length === 0 ||
             selectedFilters.seasons?.some(season => item.season?.includes(season));
 
-        // For Vibes: Check if the item's vibe includes ANY of the selected vibes
-        const matchesVibe = selectedFilters.vibes?.length === 0 ||
-            selectedFilters.vibes?.some(vibe => item.vibe?.includes(vibe));
 
-        return matchesSearch && matchesBrand && matchesGender && matchesNotes && matchesDupeBrand && matchesScentFamily && matchesSeason && matchesVibe;
+
+        return matchesSearch && matchesBrand && matchesGender && matchesNotes && matchesDupeBrand && matchesScentFamily && matchesSeason;
     });
 
     console.log('DEBUG: Originals count:', originals.length);
@@ -125,7 +122,7 @@ const HomePage = () => {
     console.log('DEBUG: Selected filters:', selectedFilters);
     console.log('DEBUG: Filtered count:', filteredOriginals.length);
 
-    const activeFilterCount = selectedFilters.brands.length + selectedFilters.genders.length + selectedFilters.notes.length + (selectedFilters.dupeBrands?.length || 0) + (selectedFilters.scentFamilies?.length || 0) + (selectedFilters.seasons?.length || 0) + (selectedFilters.vibes?.length || 0);
+    const activeFilterCount = selectedFilters.brands.length + selectedFilters.genders.length + selectedFilters.notes.length + (selectedFilters.dupeBrands?.length || 0) + (selectedFilters.scentFamilies?.length || 0) + (selectedFilters.seasons?.length || 0);
 
     return (
         <div className="container" style={{ paddingBottom: '100px' }}>
@@ -351,8 +348,7 @@ const HomePage = () => {
                                 notes: [],
                                 dupeBrands: [],
                                 scentFamilies: [],
-                                seasons: [],
-                                vibes: []
+                                seasons: []
                             });
                             sessionStorage.removeItem('perfumeSearchTerm');
                             sessionStorage.removeItem('perfumeFilters');
