@@ -1,3 +1,0 @@
-Bu dosyayı GitHub Desktop'ta değişiklikleri tetiklemek için oluşturdum.
-Eğer bunu görüyorsanız ama db.js'i görmüyorsanız, db.js dosyası yoksayılıyor olabilir.
-Eğer bunu da görmüyorsanız, GitHub Desktop yanlış klasöre bakıyor demektir.

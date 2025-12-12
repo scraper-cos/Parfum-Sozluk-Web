@@ -2142,183 +2142,183 @@ export const originals = [
         originalVolume: 35,
         productUrl: "https://www.sephora.com.tr/p/l-interdit-edp-P3444023.html"
     }
-    },
-{
-    id: 148,
+    ,
+    {
+        id: 148,
         brand: "Calvin Klein",
-            name: "CK2",
-                gender: "Unisex",
-                    notes: "Wasabi, Mandalina, Menekşe Yaprağı, Islak Taş Akoru, Süsen Kökü",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Odunsu / Aromatik (Ferah)",
-                                season: "Yaz",
-                                    vibe: "Gündüz, Spor, Dinamik"
-},
-{
-    id: 149,
+        name: "CK2",
+        gender: "Unisex",
+        notes: "Wasabi, Mandalina, Menekşe Yaprağı, Islak Taş Akoru, Süsen Kökü",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Aromatik (Ferah)",
+        season: "Yaz",
+        vibe: "Gündüz, Spor, Dinamik"
+    },
+    {
+        id: 149,
         brand: "Frédéric Malle",
-            name: "Lipstick Rose",
-                gender: "Kadın",
-                    notes: "Greyfurt, Menekşe, Gül, İris, Ahududu, Vanilya",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Çiçeksi (Pudralı)",
-                                season: "Sonbahar / Kış",
-                                    vibe: "Gündüz, Romantik, Nostaljik"
-},
-{
-    id: 150,
+        name: "Lipstick Rose",
+        gender: "Kadın",
+        notes: "Greyfurt, Menekşe, Gül, İris, Ahududu, Vanilya",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Çiçeksi (Pudralı)",
+        season: "Sonbahar / Kış",
+        vibe: "Gündüz, Romantik, Nostaljik"
+    },
+    {
+        id: 150,
         brand: "Estée Lauder",
-            name: "Bronze Goddess",
-                gender: "Kadın",
-                    notes: "Hindistan Cevizi Suyu, Bergamot, Tiare Çiçeği, Sandal Ağacı",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Çiçeksi / Amber (Solar)",
-                                season: "Yaz",
-                                    vibe: "Plaj, Tatil, Güneşli"
-},
-{
-    id: 151,
+        name: "Bronze Goddess",
+        gender: "Kadın",
+        notes: "Hindistan Cevizi Suyu, Bergamot, Tiare Çiçeği, Sandal Ağacı",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Çiçeksi / Amber (Solar)",
+        season: "Yaz",
+        vibe: "Plaj, Tatil, Güneşli"
+    },
+    {
+        id: 151,
         brand: "Hermès",
-            name: "Le Jardin de Monsieur Li",
-                gender: "Unisex",
-                    notes: "Kamkat (Kumkuat), Bergamot, Yasemin, Bitkisel Notalar",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Turunçgil / Aromatik",
-                                season: "Yaz",
-                                    vibe: "Gündüz, Dışarı, Ferah"
-},
-{
-    id: 152,
+        name: "Le Jardin de Monsieur Li",
+        gender: "Unisex",
+        notes: "Kamkat (Kumkuat), Bergamot, Yasemin, Bitkisel Notalar",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Turunçgil / Aromatik",
+        season: "Yaz",
+        vibe: "Gündüz, Dışarı, Ferah"
+    },
+    {
+        id: 152,
         brand: "Hermès",
-            name: "Eau des Merveilles",
-                gender: "Kadın",
-                    notes: "Elemi Reçinesi, Acı Portakal, Amber, Karabiber, Sedir Ağacı",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Odunsu / Amber",
-                                season: "Sonbahar",
-                                    vibe: "Gündüz, Ofis, Sofistike"
-},
-{
-    id: 153,
+        name: "Eau des Merveilles",
+        gender: "Kadın",
+        notes: "Elemi Reçinesi, Acı Portakal, Amber, Karabiber, Sedir Ağacı",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Amber",
+        season: "Sonbahar",
+        vibe: "Gündüz, Ofis, Sofistike"
+    },
+    {
+        id: 153,
         brand: "Kilian",
-            name: "Love, Don't Be Shy",
-                gender: "Kadın",
-                    notes: "Neroli, Bergamot, Portakal Çiçeği, Gül, Marshmallow",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Oryantal / Gurme (Tatlı)",
-                                season: "Sonbahar / Kış",
-                                    vibe: "Romantik Buluşma, Tatlı, Çekici"
-},
-{
-    id: 154,
+        name: "Love, Don't Be Shy",
+        gender: "Kadın",
+        notes: "Neroli, Bergamot, Portakal Çiçeği, Gül, Marshmallow",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Oryantal / Gurme (Tatlı)",
+        season: "Sonbahar / Kış",
+        vibe: "Romantik Buluşma, Tatlı, Çekici"
+    },
+    {
+        id: 154,
         brand: "Mancera",
-            name: "Wild Python",
-                gender: "Kadın",
-                    notes: "Sümbülteber, Şeftali, Bergamot, Yasemin, Portakal Çiçeği",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Çiçeksi / Şipre",
-                                season: "İlkbahar / Yaz",
-                                    vibe: "Özel Davet, Vahşi, Çiçeksi"
-},
-{
-    id: 155,
+        name: "Wild Python",
+        gender: "Kadın",
+        notes: "Sümbülteber, Şeftali, Bergamot, Yasemin, Portakal Çiçeği",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Çiçeksi / Şipre",
+        season: "İlkbahar / Yaz",
+        vibe: "Özel Davet, Vahşi, Çiçeksi"
+    },
+    {
+        id: 155,
         brand: "Givenchy",
-            name: "Irresistible",
-                gender: "Kadın",
-                    notes: "Armut, Misk Ebegümeci (Ambrette), Gül Esansı, İris",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Çiçeksi / Meyvemsi",
-                                season: "İlkbahar",
-                                    vibe: "Gündüz, Neşeli, Genç"
-},
-{
-    id: 156,
+        name: "Irresistible",
+        gender: "Kadın",
+        notes: "Armut, Misk Ebegümeci (Ambrette), Gül Esansı, İris",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Çiçeksi / Meyvemsi",
+        season: "İlkbahar",
+        vibe: "Gündüz, Neşeli, Genç"
+    },
+    {
+        id: 156,
         brand: "Gucci",
-            name: "Flora Eau Fraiche",
-                gender: "Kadın",
-                    notes: "Bergamot, Limon, Kamkat, Gül, Osmanthus, Yeşil Notalar",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Çiçeksi / Su",
-                                season: "Yaz",
-                                    vibe: "Gündüz, Ferah, Çiçeksi"
-},
-{
-    id: 157,
+        name: "Flora Eau Fraiche",
+        gender: "Kadın",
+        notes: "Bergamot, Limon, Kamkat, Gül, Osmanthus, Yeşil Notalar",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Çiçeksi / Su",
+        season: "Yaz",
+        vibe: "Gündüz, Ferah, Çiçeksi"
+    },
+    {
+        id: 157,
         brand: "Tom Ford",
-            name: "Lost Cherry",
-                gender: "Unisex",
-                    notes: "Kara Kiraz, Acı Badem, Vişne Likörü, Türk Gülü, Yasemin",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Oryantal / Çiçeksi",
-                                season: "Sonbahar / Kış",
-                                    vibe: "Gece, Özel Yemek, Lüks"
-},
-{
-    id: 158,
+        name: "Lost Cherry",
+        gender: "Unisex",
+        notes: "Kara Kiraz, Acı Badem, Vişne Likörü, Türk Gülü, Yasemin",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Oryantal / Çiçeksi",
+        season: "Sonbahar / Kış",
+        vibe: "Gece, Özel Yemek, Lüks"
+    },
+    {
+        id: 158,
         brand: "YSL",
-            name: "Black Opium Neon",
-                gender: "Kadın",
-                    notes: "Ejder Meyvesi (Pitaya), Mandalina, Portakal Çiçeği, Yasemin, Kahve",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Oryantal / Vanilya",
-                                season: "Kış",
-                                    vibe: "Gece, Neon, Enerjik"
-},
-{
-    id: 159,
+        name: "Black Opium Neon",
+        gender: "Kadın",
+        notes: "Ejder Meyvesi (Pitaya), Mandalina, Portakal Çiçeği, Yasemin, Kahve",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Oryantal / Vanilya",
+        season: "Kış",
+        vibe: "Gece, Neon, Enerjik"
+    },
+    {
+        id: 159,
         brand: "Gucci",
-            name: "Guilty Absolute (Femme)",
-                gender: "Kadın",
-                    notes: "Böğürtlen, Bergamot, Pembe Biber, Bulgar Gülü, Selvi",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Odunsu / Şipre",
-                                season: "Kış",
-                                    vibe: "Gece, Gizemli, Odunsu"
-},
-{
-    id: 160,
+        name: "Guilty Absolute (Femme)",
+        gender: "Kadın",
+        notes: "Böğürtlen, Bergamot, Pembe Biber, Bulgar Gülü, Selvi",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Şipre",
+        season: "Kış",
+        vibe: "Gece, Gizemli, Odunsu"
+    },
+    {
+        id: 160,
         brand: "YSL",
-            name: "Libre Eau de Toilette",
-                gender: "Kadın",
-                    notes: "Mandalina, Bergamot, Lavanta, Portakal Çiçeği, Yasemin Çayı",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Çiçeksi (Fujer)",
-                                season: "ilkbahar / Sonbahar",
-                                    vibe: "Gündüz, Ofis, Hafif"
-},
-{
-    id: 161,
+        name: "Libre Eau de Toilette",
+        gender: "Kadın",
+        notes: "Mandalina, Bergamot, Lavanta, Portakal Çiçeği, Yasemin Çayı",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Çiçeksi (Fujer)",
+        season: "ilkbahar / Sonbahar",
+        vibe: "Gündüz, Ofis, Hafif"
+    },
+    {
+        id: 161,
         brand: "Jo Malone",
-            name: "Orange Blossom",
-                gender: "Unisex",
-                    notes: "Klementin Çiçeği, Ağaç Kavunu, Portakal Çiçeği, Nilüfer",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Çiçeksi",
-                                season: "İlkbahar / Yaz",
-                                    vibe: "Gündüz, Bahçe, Taze"
-},
-{
-    id: 162,
+        name: "Orange Blossom",
+        gender: "Unisex",
+        notes: "Klementin Çiçeği, Ağaç Kavunu, Portakal Çiçeği, Nilüfer",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Çiçeksi",
+        season: "İlkbahar / Yaz",
+        vibe: "Gündüz, Bahçe, Taze"
+    },
+    {
+        id: 162,
         brand: "Dolce & Gabbana",
-            name: "Light Blue",
-                gender: "Kadın",
-                    notes: "Sicilya Limonu, Yeşil Elma, Yaban Sümbülü, Yasemin, Bambu",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Çiçeksi / Meyvemsi",
-                                season: "Yaz",
-                                    vibe: "Gündüz, Tatil, Deniz"
-},
-{
-    id: 163,
+        name: "Light Blue",
+        gender: "Kadın",
+        notes: "Sicilya Limonu, Yeşil Elma, Yaban Sümbülü, Yasemin, Bambu",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Çiçeksi / Meyvemsi",
+        season: "Yaz",
+        vibe: "Gündüz, Tatil, Deniz"
+    },
+    {
+        id: 163,
         brand: "Montblanc",
-            name: "Signature",
-                gender: "Kadın",
-                    notes: "Klementin (Mandalina), Manolya, Ylang-Ylang, Şakayık, Vanilya",
-                        image: "/parfumler/default.jpg",
-                            scentFamily: "Çiçeksi / Amber",
-                                season: "Sonbahar / Kış",
-                                    vibe: "Gündüz, Ofis, Temiz/Kremsi"
-}
+        name: "Signature",
+        gender: "Kadın",
+        notes: "Klementin (Mandalina), Manolya, Ylang-Ylang, Şakayık, Vanilya",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Çiçeksi / Amber",
+        season: "Sonbahar / Kış",
+        vibe: "Gündüz, Ofis, Temiz/Kremsi"
+    }
 ];
 
 export const dupes = [
@@ -2948,81 +2948,81 @@ export const dupes = [
 
     // Givenchy L’Interdit (ID: 147)
     { id: 14701, originalId: 147, brand: "MAD", code: "G104", similarity: 95 }
-    },
+    ,
 
-// --- ZARA İTHAL LİSTE (YENİ) ---
+    // --- ZARA İTHAL LİSTE (YENİ) ---
 
-// Lancôme La Vie Est Belle Intensément (ID: 141)
-{ id: 14102, originalId: 141, brand: "Zara", code: "Majestic Opulence", similarity: 90 },
+    // Lancôme La Vie Est Belle Intensément (ID: 141)
+    { id: 14102, originalId: 141, brand: "Zara", code: "Majestic Opulence", similarity: 90 },
 
-// Calvin Klein CK2 (ID: 148)
-{ id: 14801, originalId: 148, brand: "Zara", code: "Salty Ocean Bouquet", similarity: 90 },
+    // Calvin Klein CK2 (ID: 148)
+    { id: 14801, originalId: 148, brand: "Zara", code: "Salty Ocean Bouquet", similarity: 90 },
 
-// Frédéric Malle Lipstick Rose (ID: 149)
-{ id: 14901, originalId: 149, brand: "Zara", code: "Sense of Glam", similarity: 90 },
+    // Frédéric Malle Lipstick Rose (ID: 149)
+    { id: 14901, originalId: 149, brand: "Zara", code: "Sense of Glam", similarity: 90 },
 
-// Giorgio Armani My Way (ID: 105)
-{ id: 10502, originalId: 105, brand: "Zara", code: "Sublime Epoque", similarity: 90 },
+    // Giorgio Armani My Way (ID: 105)
+    { id: 10502, originalId: 105, brand: "Zara", code: "Sublime Epoque", similarity: 90 },
 
-// Estée Lauder Bronze Goddess (ID: 150)
-{ id: 15001, originalId: 150, brand: "Zara", code: "Soleil Decade", similarity: 90 },
+    // Estée Lauder Bronze Goddess (ID: 150)
+    { id: 15001, originalId: 150, brand: "Zara", code: "Soleil Decade", similarity: 90 },
 
-// YSL Black Opium (ID: 4)
-{ id: 406, originalId: 4, brand: "Zara", code: "Supreme Vanilla", similarity: 90 },
+    // YSL Black Opium (ID: 4)
+    { id: 406, originalId: 4, brand: "Zara", code: "Supreme Vanilla", similarity: 90 },
 
-// Hermès Le Jardin de Monsieur Li (ID: 151)
-{ id: 15101, originalId: 151, brand: "Zara", code: "Waterfall Brume", similarity: 90 },
+    // Hermès Le Jardin de Monsieur Li (ID: 151)
+    { id: 15101, originalId: 151, brand: "Zara", code: "Waterfall Brume", similarity: 90 },
 
-// Hermès Eau des Merveilles (ID: 152)
-{ id: 15201, originalId: 152, brand: "Zara", code: "Amber & Fig Cashmere", similarity: 90 },
+    // Hermès Eau des Merveilles (ID: 152)
+    { id: 15201, originalId: 152, brand: "Zara", code: "Amber & Fig Cashmere", similarity: 90 },
 
-// Kilian Love, Don't Be Shy (ID: 153)
-{ id: 15301, originalId: 153, brand: "Zara", code: "Barbie", similarity: 90 },
+    // Kilian Love, Don't Be Shy (ID: 153)
+    { id: 15301, originalId: 153, brand: "Zara", code: "Barbie", similarity: 90 },
 
-// Gucci Rush (ID: 47)
-{ id: 4703, originalId: 47, brand: "Zara", code: "Black Dart", similarity: 90 },
+    // Gucci Rush (ID: 47)
+    { id: 4703, originalId: 47, brand: "Zara", code: "Black Dart", similarity: 90 },
 
-// Mancera Wild Python (ID: 154)
-{ id: 15401, originalId: 154, brand: "Zara", code: "Bois Soleil", similarity: 90 },
+    // Mancera Wild Python (ID: 154)
+    { id: 15401, originalId: 154, brand: "Zara", code: "Bois Soleil", similarity: 90 },
 
-// Givenchy Irresistible (ID: 155)
-{ id: 15501, originalId: 155, brand: "Zara", code: "Captivatingly Paris", similarity: 90 },
+    // Givenchy Irresistible (ID: 155)
+    { id: 15501, originalId: 155, brand: "Zara", code: "Captivatingly Paris", similarity: 90 },
 
-// Gucci Flora Gorgeous Gardenia (ID: 48)
-{ id: 4802, originalId: 48, brand: "Zara", code: "Cashmere Rose", similarity: 90 },
+    // Gucci Flora Gorgeous Gardenia (ID: 48)
+    { id: 4802, originalId: 48, brand: "Zara", code: "Cashmere Rose", similarity: 90 },
 
-// Gucci Flora Eau Fraiche (ID: 156)
-{ id: 15601, originalId: 156, brand: "Zara", code: "Cherry Sling", similarity: 90 },
+    // Gucci Flora Eau Fraiche (ID: 156)
+    { id: 15601, originalId: 156, brand: "Zara", code: "Cherry Sling", similarity: 90 },
 
-// Tom Ford Lost Cherry (ID: 157)
-{ id: 15701, originalId: 157, brand: "Zara", code: "Cherry Smoothie", similarity: 90 },
+    // Tom Ford Lost Cherry (ID: 157)
+    { id: 15701, originalId: 157, brand: "Zara", code: "Cherry Smoothie", similarity: 90 },
 
-// YSL Black Opium Neon (ID: 158)
-{ id: 15801, originalId: 158, brand: "Zara", code: "Crispy Gardenia", similarity: 90 },
+    // YSL Black Opium Neon (ID: 158)
+    { id: 15801, originalId: 158, brand: "Zara", code: "Crispy Gardenia", similarity: 90 },
 
-// Gucci Guilty Absolute (Femme) (ID: 159)
-{ id: 15901, originalId: 159, brand: "Zara", code: "Endless Oud", similarity: 90 },
+    // Gucci Guilty Absolute (Femme) (ID: 159)
+    { id: 15901, originalId: 159, brand: "Zara", code: "Endless Oud", similarity: 90 },
 
-// YSL Libre Eau de Toilette (ID: 160)
-{ id: 16001, originalId: 160, brand: "Zara", code: "Evening Maiden Orchid", similarity: 90 },
+    // YSL Libre Eau de Toilette (ID: 160)
+    { id: 16001, originalId: 160, brand: "Zara", code: "Evening Maiden Orchid", similarity: 90 },
 
-// Jo Malone Orange Blossom (ID: 161)
-{ id: 16101, originalId: 161, brand: "Zara", code: "Fleur d'Oranger", similarity: 90 },
+    // Jo Malone Orange Blossom (ID: 161)
+    { id: 16101, originalId: 161, brand: "Zara", code: "Fleur d'Oranger", similarity: 90 },
 
-// Dolce & Gabbana Light Blue (ID: 162)
-{ id: 16201, originalId: 162, brand: "Zara", code: "Forget Me Not", similarity: 90 },
+    // Dolce & Gabbana Light Blue (ID: 162)
+    { id: 16201, originalId: 162, brand: "Zara", code: "Forget Me Not", similarity: 90 },
 
-// Montblanc Signature (ID: 163)
-{ id: 16301, originalId: 163, brand: "Zara", code: "Frosted Cream", similarity: 90 },
+    // Montblanc Signature (ID: 163)
+    { id: 16301, originalId: 163, brand: "Zara", code: "Frosted Cream", similarity: 90 },
 
-// Burberry Her (ID: 104)
-{ id: 10402, originalId: 104, brand: "Zara", code: "Go Fruity", similarity: 90 },
+    // Burberry Her (ID: 104)
+    { id: 10402, originalId: 104, brand: "Zara", code: "Go Fruity", similarity: 90 },
 
-// Dior Hypnotic Poison (ID: 13)
-{ id: 1307, originalId: 13, brand: "Zara", code: "Hypnotic Vanilla", similarity: 90 },
+    // Dior Hypnotic Poison (ID: 13)
+    { id: 1307, originalId: 13, brand: "Zara", code: "Hypnotic Vanilla", similarity: 90 },
 
-// Dior Miss Dior Blooming Bouquet (ID: 114)
-{ id: 11402, originalId: 114, brand: "Zara", code: "Lightly Bloom", similarity: 90 }
+    // Dior Miss Dior Blooming Bouquet (ID: 114)
+    { id: 11402, originalId: 114, brand: "Zara", code: "Lightly Bloom", similarity: 90 }
 ];
 
 export const getOriginals = () => originals;
