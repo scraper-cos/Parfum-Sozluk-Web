@@ -2149,7 +2149,7 @@ export const originals = [
         name: "CK2",
         gender: "Unisex",
         notes: "Wasabi, Mandalina, Menekşe Yaprağı, Islak Taş Akoru, Süsen Kökü",
-        image: "/parfumler/calvin-klein-ck2.jpg",
+        image: "/parfumler/Calvin Klein - CK2.jpg",
         scentFamily: "Odunsu / Aromatik (Ferah)",
         season: "Yaz",
         vibe: "Gündüz, Spor, Dinamik"
@@ -2160,7 +2160,7 @@ export const originals = [
         name: "Lipstick Rose",
         gender: "Kadın",
         notes: "Greyfurt, Menekşe, Gül, İris, Ahududu, Vanilya",
-        image: "/parfumler/frederic-malle-lipstick-rose.jpg",
+        image: "/parfumler/Frédéric Malle - Lipstick Rose.jpg",
         scentFamily: "Çiçeksi (Pudralı)",
         season: "Sonbahar / Kış",
         vibe: "Gündüz, Romantik, Nostaljik"
@@ -2171,7 +2171,7 @@ export const originals = [
         name: "Bronze Goddess",
         gender: "Kadın",
         notes: "Hindistan Cevizi Suyu, Bergamot, Tiare Çiçeği, Sandal Ağacı",
-        image: "/parfumler/estee-lauder-bronze-goddess.jpg",
+        image: "/parfumler/Estée Lauder - Bronze Goddess.jpeg",
         scentFamily: "Çiçeksi / Amber (Solar)",
         season: "Yaz",
         vibe: "Plaj, Tatil, Güneşli"
@@ -2182,7 +2182,7 @@ export const originals = [
         name: "Le Jardin de Monsieur Li",
         gender: "Unisex",
         notes: "Kamkat (Kumkuat), Bergamot, Yasemin, Bitkisel Notalar",
-        image: "/parfumler/hermes-le-jardin-de-monsieur-li.jpg",
+        image: "/parfumler/Hermès - Le Jardin de Monsieur Li.jpg",
         scentFamily: "Turunçgil / Aromatik",
         season: "Yaz",
         vibe: "Gündüz, Dışarı, Ferah"
@@ -2193,7 +2193,7 @@ export const originals = [
         name: "Eau des Merveilles",
         gender: "Kadın",
         notes: "Elemi Reçinesi, Acı Portakal, Amber, Karabiber, Sedir Ağacı",
-        image: "/parfumler/hermes-eau-des-merveilles.jpg",
+        image: "/parfumler/Hermès - Eau des Merveilles.jpg",
         scentFamily: "Odunsu / Amber",
         season: "Sonbahar",
         vibe: "Gündüz, Ofis, Sofistike"
@@ -2204,7 +2204,7 @@ export const originals = [
         name: "Love, Don't Be Shy",
         gender: "Kadın",
         notes: "Neroli, Bergamot, Portakal Çiçeği, Gül, Marshmallow",
-        image: "/parfumler/kilian-love-dont-be-shy.jpg",
+        image: "/parfumler/Kilian - Love, Don't Be Shy.jpg",
         scentFamily: "Oryantal / Gurme (Tatlı)",
         season: "Sonbahar / Kış",
         vibe: "Romantik Buluşma, Tatlı, Çekici"
@@ -2215,7 +2215,7 @@ export const originals = [
         name: "Wild Python",
         gender: "Kadın",
         notes: "Sümbülteber, Şeftali, Bergamot, Yasemin, Portakal Çiçeği",
-        image: "/parfumler/mancera-wild-python.jpg",
+        image: "/parfumler/Mancera - Wild Python.jpg",
         scentFamily: "Çiçeksi / Şipre",
         season: "İlkbahar / Yaz",
         vibe: "Özel Davet, Vahşi, Çiçeksi"
@@ -2226,7 +2226,7 @@ export const originals = [
         name: "Irresistible",
         gender: "Kadın",
         notes: "Armut, Misk Ebegümeci (Ambrette), Gül Esansı, İris",
-        image: "/parfumler/givenchy-irresistible.jpg",
+        image: "/parfumler/Givenchy - Irresistible.avif",
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "İlkbahar",
         vibe: "Gündüz, Neşeli, Genç"
@@ -2237,7 +2237,7 @@ export const originals = [
         name: "Flora Eau Fraiche",
         gender: "Kadın",
         notes: "Bergamot, Limon, Kamkat, Gül, Osmanthus, Yeşil Notalar",
-        image: "/parfumler/gucci-flora-eau-fraiche.jpg",
+        image: "/parfumler/Gucci - Flora Eau Fraiche.jpg",
         scentFamily: "Çiçeksi / Su",
         season: "Yaz",
         vibe: "Gündüz, Ferah, Çiçeksi"
@@ -2248,7 +2248,7 @@ export const originals = [
         name: "Lost Cherry",
         gender: "Unisex",
         notes: "Kara Kiraz, Acı Badem, Vişne Likörü, Türk Gülü, Yasemin",
-        image: "/parfumler/tom-ford-lost-cherry.jpg",
+        image: "/parfumler/Tom Ford - Lost Cherry.jpg",
         scentFamily: "Oryantal / Çiçeksi",
         season: "Sonbahar / Kış",
         vibe: "Gece, Özel Yemek, Lüks"
@@ -2259,7 +2259,7 @@ export const originals = [
         name: "Black Opium Neon",
         gender: "Kadın",
         notes: "Ejder Meyvesi (Pitaya), Mandalina, Portakal Çiçeği, Yasemin, Kahve",
-        image: "/parfumler/ysl-black-opium-neon.jpg",
+        image: "/parfumler/YSL - Black Opium Neon.webp",
         scentFamily: "Oryantal / Vanilya",
         season: "Kış",
         vibe: "Gece, Neon, Enerjik"
@@ -2270,7 +2270,7 @@ export const originals = [
         name: "Guilty Absolute (Femme)",
         gender: "Kadın",
         notes: "Böğürtlen, Bergamot, Pembe Biber, Bulgar Gülü, Selvi",
-        image: "/parfumler/gucci-guilty-absolute-femme.jpg",
+        image: "/parfumler/Gucci - Guilty Absolute (Femme).avif",
         scentFamily: "Odunsu / Şipre",
         season: "Kış",
         vibe: "Gece, Gizemli, Odunsu"
@@ -2281,7 +2281,7 @@ export const originals = [
         name: "Libre Eau de Toilette",
         gender: "Kadın",
         notes: "Mandalina, Bergamot, Lavanta, Portakal Çiçeği, Yasemin Çayı",
-        image: "/parfumler/ysl-libre-eau-de-toilette.jpg",
+        image: "/parfumler/YSL - Libre Eau de Toilette.webp",
         scentFamily: "Çiçeksi (Fujer)",
         season: "ilkbahar / Sonbahar",
         vibe: "Gündüz, Ofis, Hafif"
@@ -2292,7 +2292,7 @@ export const originals = [
         name: "Orange Blossom",
         gender: "Unisex",
         notes: "Klementin Çiçeği, Ağaç Kavunu, Portakal Çiçeği, Nilüfer",
-        image: "/parfumler/jo-malone-orange-blossom.jpg",
+        image: "/parfumler/Jo Malone - Orange Blossom.jpg",
         scentFamily: "Çiçeksi",
         season: "İlkbahar / Yaz",
         vibe: "Gündüz, Bahçe, Taze"
@@ -2303,7 +2303,7 @@ export const originals = [
         name: "Light Blue",
         gender: "Kadın",
         notes: "Sicilya Limonu, Yeşil Elma, Yaban Sümbülü, Yasemin, Bambu",
-        image: "/parfumler/dolce-gabbana-light-blue.jpg",
+        image: "/parfumler/Dolce & Gabbana - Light Blue.jpeg",
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "Yaz",
         vibe: "Gündüz, Tatil, Deniz"
@@ -2314,7 +2314,7 @@ export const originals = [
         name: "Signature",
         gender: "Kadın",
         notes: "Klementin (Mandalina), Manolya, Ylang-Ylang, Şakayık, Vanilya",
-        image: "/parfumler/montblanc-signature.jpg",
+        image: "/parfumler/Montblanc - Signature.jpg",
         scentFamily: "Çiçeksi / Amber",
         season: "Sonbahar / Kış",
         vibe: "Gündüz, Ofis, Temiz/Kremsi"
