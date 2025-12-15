@@ -110,7 +110,10 @@ const HomePage = () => {
 
         // For Seasons: Check if the item's season includes ANY of the selected seasons
         const matchesSeason = selectedFilters.seasons?.length === 0 ||
-            selectedFilters.seasons?.some(season => item.season?.includes(season));
+            selectedFilters.seasons?.some(season => {
+                const normalizedSeason = season === "Dört Mevsim" ? "Her Mevsim" : season;
+                return item.season?.includes(season) || (season === "Dört Mevsim" && item.season?.includes("Her Mevsim"));
+            });
 
 
 
