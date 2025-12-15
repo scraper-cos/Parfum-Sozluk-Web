@@ -2325,7 +2325,7 @@ export const originals = [
         name: "Uomo Intense",
         gender: "Erkek",
         notes: "İris, Vanilya, Küçük Hindistan Cevizi, Lavanta, Sedir, Vetiver",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Valentino-Uomo Intense.webp",
         scentFamily: "Odunsu / Oryantal",
         season: "Sonbahar / Kış",
         vibe: "Gece, Özel Davet, Şık"
@@ -2336,7 +2336,7 @@ export const originals = [
         name: "L'Eau d'Issey Pour Homme",
         gender: "Erkek",
         notes: "Yuzu (Japon Limonu), Tarçın, Küçük Hindistan Cevizi, Sandal Ağacı, Nilüfer",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Issey Miyake-L'Eau d'Issey Pour Homme.jpg",
         scentFamily: "Odunsu / Su",
         season: "İlkbahar / Yaz",
         vibe: "Gündüz, Ofis, Ferah"
@@ -2347,7 +2347,7 @@ export const originals = [
         name: "Y",
         gender: "Erkek",
         notes: "Yeşil Elma, Zencefil, Adaçayı, Sardunya, Sedir Ağacı, Tonka Fasulyesi",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/YSL-Y.jpg",
         scentFamily: "Aromatik / Fujer",
         season: "İlkbahar / Sonbahar",
         vibe: "Gündüz, Ofis, Modern"
@@ -2358,7 +2358,7 @@ export const originals = [
         name: "Gentleman",
         gender: "Erkek",
         notes: "Armut, İris, Lavanta, Deri, Paçuli, Karabiber",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Givenchy-Gentleman.webp",
         scentFamily: "Odunsu / Çiçeksi",
         season: "Sonbahar / Kış",
         vibe: "Gece, Ofis, Beyefendi"
@@ -2369,7 +2369,7 @@ export const originals = [
         name: "Silver Mountain Water",
         gender: "Unisex",
         notes: "Bergamot, Mandalina, Yeşil Çay, Frenk Üzümü, Misk, Sandal Ağacı",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Creed-Silver Mountain Water.webp",
         scentFamily: "Aromatik / Meyvemsi",
         season: "İlkbahar / Yaz",
         vibe: "Gündüz, Tatil, Dağ Havası"
@@ -2380,7 +2380,7 @@ export const originals = [
         name: "Myrrh & Tonka",
         gender: "Unisex",
         notes: "Lavanta, Omumbiri Mür, Tonka Fasulyesi, Vanilya, Badem",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Jo Malone-Myrrh & Tonka.webp",
         scentFamily: "Oryantal / Odunsu",
         season: "Sonbahar / Kış",
         vibe: "Gece, Ev, Rahatlatıcı"
@@ -2391,7 +2391,7 @@ export const originals = [
         name: "Bottled Unlimited",
         gender: "Erkek",
         notes: "Nane, Greyfurt, Ananas, Tarçın, Gül, Sandal Ağacı, Beyaz Misk",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Hugo Boss-Bottled Unlimited.webp",
         scentFamily: "Aromatik / Fujer",
         season: "Yaz",
         vibe: "Gündüz, Spor, Dinamik"
@@ -2402,7 +2402,7 @@ export const originals = [
         name: "Invictus Aqua",
         gender: "Erkek",
         notes: "Yuzu, Greyfurt, Menekşe Yaprağı, Deniz Suyu, Amber Ağacı",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Paco Rabanne-Invictus Aqua.jpg",
         scentFamily: "Odunsu / Su",
         season: "Yaz",
         vibe: "Plaj, Havuz, Enerjik"
@@ -2413,7 +2413,7 @@ export const originals = [
         name: "Homme Cologne",
         gender: "Erkek",
         notes: "Kalabriya Bergamotu, Greyfurt Çiçeği, Beyaz Misk",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Dior-Homme Cologne.jpg",
         scentFamily: "Narenciye",
         season: "Yaz",
         vibe: "Gündüz, Sıcak Hava, Temiz"
@@ -2424,7 +2424,7 @@ export const originals = [
         name: "For Men (Classic)",
         gender: "Erkek",
         notes: "Bergamot, Lavanta, Taze Nane, Sandal Ağacı, Sedir, Amber",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Burberry-For Men (Classic).jpg",
         scentFamily: "Odunsu / Aromatik",
         season: "Sonbahar",
         vibe: "Gündüz, Ofis, Klasik"
@@ -2435,7 +2435,7 @@ export const originals = [
         name: "Neroli Portofino",
         gender: "Unisex",
         notes: "Tunus Neroli, İtalyan Bergamotu, Sicilya Limonu, Portakal Çiçeği, Amber",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Tom Ford-Neroli Portofino.jpg",
         scentFamily: "Narenciye / Aromatik",
         season: "Yaz",
         vibe: "Gündüz, Tatil, Lüks"
@@ -2446,7 +2446,7 @@ export const originals = [
         name: "Midnight Poison",
         gender: "Kadın",
         notes: "Bergamot, Mandalina, Gül, Paçuli, Amber, Vanilya",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Dior-Midnight Poison.jpg",
         scentFamily: "Odunsu / Şipre",
         season: "Kış",
         vibe: "Gece, Büyüleyici, Gotik"
@@ -2457,7 +2457,7 @@ export const originals = [
         name: "Homme (2020)",
         gender: "Erkek",
         notes: "Bergamot, Pembe Biber, Atlas Sediri, Kaşmir Ağacı, Vetiver, Misk",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Dior-Homme (2020).jpg",
         scentFamily: "Odunsu",
         season: "Her Mevsim",
         vibe: "Ofis, İmza Koku, Modern"
@@ -2468,7 +2468,7 @@ export const originals = [
         name: "Royal Oud",
         gender: "Unisex",
         notes: "Limon, Pembe Biber, Sedir, Galbanum, Melek Otu, Ud, Sandal Ağacı",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Creed-Royal Oud.jpg",
         scentFamily: "Odunsu / Baharatlı",
         season: "Kış",
         vibe: "Gece, Resmi, Kraliyet"
@@ -2479,7 +2479,7 @@ export const originals = [
         name: "White (He)",
         gender: "Erkek",
         notes: "Bergamot, Mandalina, Limon, Papatya, Biberiye, Beyaz Misk",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Armani-White (He).jpg",
         scentFamily: "Narenciye / Aromatik",
         season: "Yaz",
         vibe: "Gündüz, Temiz, Beyaz Gömlek"
@@ -2490,7 +2490,7 @@ export const originals = [
         name: "By the Fireplace",
         gender: "Unisex",
         notes: "Karanfil, Pembe Biber, Portakal Çiçeği, Kestane, Guaiac Ağacı, Vanilya",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Maison Margiela-By the Fireplace.jpg",
         scentFamily: "Odunsu / Amber",
         season: "Kış",
         vibe: "Gece, Kış Tatili, Sıcak"
@@ -2501,7 +2501,7 @@ export const originals = [
         name: "Acqua di Gio Essenza",
         gender: "Erkek",
         notes: "Su Notaları, Bergamot, Greyfurt, Fesleğen, Adaçayı, Sedir, Paçuli",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Armani-Acqua di Gio Essenza.jpg",
         scentFamily: "Odunsu / Su",
         season: "Yaz",
         vibe: "Gündüz, Akşamüstü, Yoğun"
@@ -2512,7 +2512,7 @@ export const originals = [
         name: "Mimosa & Cardamom",
         gender: "Unisex",
         notes: "Kakule, Mimoza, Tonka Fasulyesi",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Jo Malone-Mimosa & Cardamom.webp",
         scentFamily: "Çiçeksi / Oryantal",
         season: "İlkbahar / Sonbahar",
         vibe: "Gündüz, Bohem, Yumuşak"
@@ -2523,7 +2523,7 @@ export const originals = [
         name: "Oud Royal",
         gender: "Unisex",
         notes: "Safran, Gül, Ud (Öd Ağacı), Sandal Ağacı, Tütsü, Amber",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Armani Privé-Oud Royal.avif",
         scentFamily: "Odunsu / Oryantal",
         season: "Kış",
         vibe: "Gece, Resmi Davet, Lüks"
@@ -2534,7 +2534,7 @@ export const originals = [
         name: "L'Homme Parfum Intense",
         gender: "Erkek",
         notes: "Limon, Karabiber, Portakal Çiçeği, Pelin Otu, Ambergris, Odunsu Notalar",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/YSL-L'Homme Parfum Intense.avif",
         scentFamily: "Odunsu / Amber",
         season: "Sonbahar / Kış",
         vibe: "Gece, Çekici, Sıcak"
@@ -2545,7 +2545,7 @@ export const originals = [
         name: "Allure Homme Sport",
         gender: "Erkek",
         notes: "Mandalina, Deniz Notaları, Biber, Neroli, Sedir, Vetiver, Tonka, Misk",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Chanel-Allure Homme Sport.jpg",
         scentFamily: "Odunsu / Baharatlı",
         season: "Yaz / İlkbahar",
         vibe: "Gündüz, Spor, Enerjik"
@@ -2556,7 +2556,7 @@ export const originals = [
         name: "Le Beau",
         gender: "Erkek",
         notes: "Bergamot, Hindistan Cevizi Ağacı, Tonka Fasulyesi",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Jean Paul Gaultier-Le Beau.webp",
         scentFamily: "Odunsu / Aromatik",
         season: "Yaz",
         vibe: "Gündüz, Tatil, Egzotik"
@@ -2567,7 +2567,7 @@ export const originals = [
         name: "Un Jardin En Méditerranée",
         gender: "Unisex",
         notes: "İncir Ağacı, Mastik (Sakız Ağacı), Bergamot, Portakal Çiçeği, Oleander",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Hermès-Un Jardin En Méditerranée.webp",
         scentFamily: "Çiçeksi / Su",
         season: "Yaz",
         vibe: "Gündüz, Bahçe, Doğal"
@@ -2578,7 +2578,7 @@ export const originals = [
         name: "Code Profumo",
         gender: "Erkek",
         notes: "Yeşil Mandalina, Yeşil Elma, Kakule, Portakal Çiçeği, Lavanta, Tonka, Deri",
-        image: "/parfumler/default.jpg",
+        image: "/parfumler/Armani-Code Profumo.avif",
         scentFamily: "Oryantal / Baharatlı",
         season: "Kış",
         vibe: "Gece, Kulüp, Yoğun"
