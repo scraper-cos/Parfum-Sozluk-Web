@@ -1,0 +1,538 @@
+[
+  {
+    "id": 57,
+    "price": 1000,
+    "originalPrice": 500,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/miracle-P14208.html",
+    "timestamp": "2025-12-03T11:45:22.585Z"
+  },
+  {
+    "id": 2,
+    "price": 21750,
+    "originalPrice": 4350,
+    "originalVolume": 20,
+    "productUrl": "https://www.sephora.com.tr/p/coco-mademoiselle-P96042.html",
+    "timestamp": "2025-12-03T12:50:01.103Z"
+  },
+  {
+    "id": 4,
+    "price": 15000,
+    "originalPrice": 7500,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/black-opium-le-parfum---eau-de-parfum-P10047227.html",
+    "timestamp": "2025-12-03T12:50:18.854Z"
+  },
+  {
+    "id": 5,
+    "price": 22300,
+    "originalPrice": 6690,
+    "originalVolume": 30,
+    "productUrl": "https://www.sephora.com.tr/p/black-orchid-edp-P55019.html",
+    "timestamp": "2025-12-03T12:50:27.257Z"
+  },
+  {
+    "id": 8,
+    "price": 10452,
+    "originalPrice": 5226,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/invictus---parfum-P10057521.html",
+    "timestamp": "2025-12-03T12:50:58.498Z"
+  },
+  {
+    "id": 10,
+    "price": 15000,
+    "originalPrice": 1500,
+    "originalVolume": 10,
+    "productUrl": "https://www.sephora.com.tr/p/libre---eau-de-parfum-P10015264.html",
+    "timestamp": "2025-12-03T12:51:14.090Z"
+  },
+  {
+    "id": 11,
+    "price": 12622,
+    "originalPrice": 6311,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/good-girl-P2700015.html",
+    "timestamp": "2025-12-03T12:51:20.649Z"
+  },
+  {
+    "id": 12,
+    "price": 27000,
+    "originalPrice": 5400,
+    "originalVolume": 20,
+    "productUrl": "https://www.sephora.com.tr/p/chance-eau-tendre-P106801.html",
+    "timestamp": "2025-12-03T12:51:29.571Z"
+  },
+  {
+    "id": 13,
+    "price": 12200,
+    "originalPrice": 6100,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/hypnotic-poison-eau-de-parfum-P1714008.html",
+    "timestamp": "2025-12-03T12:51:36.440Z"
+  },
+  {
+    "id": 14,
+    "price": 10500,
+    "originalPrice": 5250,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/bleu-de-chanel-P1922003.html",
+    "timestamp": "2025-12-03T12:51:43.997Z"
+  },
+  {
+    "id": 15,
+    "price": 14000,
+    "originalPrice": 4200,
+    "originalVolume": 30,
+    "productUrl": "https://www.sephora.com.tr/p/alien-edp-P22401.html",
+    "timestamp": "2025-12-03T12:51:50.979Z"
+  },
+  {
+    "id": 17,
+    "price": 13990,
+    "originalPrice": 6995,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/the-one-edp-75ml-P31310.html",
+    "timestamp": "2025-12-03T12:52:06.278Z"
+  },
+  {
+    "id": 19,
+    "price": 12800,
+    "originalPrice": 6400,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/la-nuit-tresor-edp-P2095023.html",
+    "timestamp": "2025-12-03T12:52:26.767Z"
+  },
+  {
+    "id": 20,
+    "price": 79900,
+    "originalPrice": 7990,
+    "originalVolume": 10,
+    "productUrl": "https://www.sephora.com.tr/p/tobacco-vanille-edp-30ml-P533009.html",
+    "timestamp": "2025-12-03T12:52:34.180Z"
+  },
+  {
+    "id": 21,
+    "price": 10633.33,
+    "originalPrice": 3190,
+    "originalVolume": 30,
+    "productUrl": "https://www.sephora.com.tr/p/wood-sage-et-sea-salt-cologne-P3153022.html",
+    "timestamp": "2025-12-03T12:52:40.999Z"
+  },
+  {
+    "id": 25,
+    "price": 11200,
+    "originalPrice": 5600,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/acqua-di-gio-profondo---eau-de-parfum-P10057523.html",
+    "timestamp": "2025-12-03T12:53:12.894Z"
+  },
+  {
+    "id": 26,
+    "price": 9874,
+    "originalPrice": 4937,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/gucci-guilty-ph-edp-parfum-P10023716.html",
+    "timestamp": "2025-12-03T12:53:22.437Z"
+  },
+  {
+    "id": 27,
+    "price": 10300,
+    "originalPrice": 5150,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/valentino-uomo-P1725008.html",
+    "timestamp": "2025-12-03T12:53:30.498Z"
+  },
+  {
+    "id": 28,
+    "price": 10600,
+    "originalPrice": 5300,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/stronger-with-you---parfum-P1000205700.html",
+    "timestamp": "2025-12-03T12:53:39.232Z"
+  },
+  {
+    "id": 30,
+    "price": 7576,
+    "originalPrice": 3788,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/boss-bottled-edt-200-ml-P2384.html",
+    "timestamp": "2025-12-03T12:53:58.159Z"
+  },
+  {
+    "id": 31,
+    "price": 11452,
+    "originalPrice": 5726,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/olympea-eau-de-parfum-80-ml-P2254010.html",
+    "timestamp": "2025-12-03T12:54:06.845Z"
+  },
+  {
+    "id": 32,
+    "price": 13386,
+    "originalPrice": 6693,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/scandal-le-parfum---eau-de-parfum-P10026337.html",
+    "timestamp": "2025-12-03T12:54:13.567Z"
+  },
+  {
+    "id": 34,
+    "price": 5900,
+    "originalPrice": 2950,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/emporio-she-P10014850.html",
+    "timestamp": "2025-12-03T12:54:29.876Z"
+  },
+  {
+    "id": 36,
+    "price": 4373,
+    "originalPrice": 4373,
+    "originalVolume": 100,
+    "productUrl": "https://www.sephora.com.tr/p/burberry-weekend-women-edp-P10020124.html",
+    "timestamp": "2025-12-03T12:54:44.269Z"
+  },
+  {
+    "id": 37,
+    "price": 3846,
+    "originalPrice": 3846,
+    "originalVolume": 100,
+    "productUrl": "https://www.sephora.com.tr/p/burberry-classic-women-edp-P6705.html",
+    "timestamp": "2025-12-03T12:54:52.057Z"
+  },
+  {
+    "id": 39,
+    "price": 12428.57,
+    "originalPrice": 4350,
+    "originalVolume": 35,
+    "productUrl": "https://www.sephora.com.tr/p/n%C2%B05-P96315.html",
+    "timestamp": "2025-12-03T12:55:08.893Z"
+  },
+  {
+    "id": 42,
+    "price": 12428.57,
+    "originalPrice": 4350,
+    "originalVolume": 35,
+    "productUrl": "https://www.sephora.com.tr/p/chance-P96022.html",
+    "timestamp": "2025-12-03T12:55:31.420Z"
+  },
+  {
+    "id": 44,
+    "price": 12200,
+    "originalPrice": 6100,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/dior-addict-eau-de-parfum-P1842009.html",
+    "timestamp": "2025-12-03T12:55:48.606Z"
+  },
+  {
+    "id": 46,
+    "price": 10800,
+    "originalPrice": 5400,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/emporio-armani-diamonds-she-edp-100-ml-P51516.html",
+    "timestamp": "2025-12-03T12:56:08.860Z"
+  },
+  {
+    "id": 47,
+    "price": 8866.67,
+    "originalPrice": 6650,
+    "originalVolume": 75,
+    "productUrl": "https://www.sephora.com.tr/p/rush-edt-75-ml-P30595.html",
+    "timestamp": "2025-12-03T12:56:17.277Z"
+  },
+  {
+    "id": 48,
+    "price": 6447.33,
+    "originalPrice": 9671,
+    "originalVolume": 150,
+    "productUrl": "https://www.sephora.com.tr/p/gucci-flora-gorgeous-gardenia-edp-P10055273.html",
+    "timestamp": "2025-12-03T12:56:24.098Z"
+  },
+  {
+    "id": 49,
+    "price": 9874,
+    "originalPrice": 4937,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/gucci-guilty-ph-edp-parfum-P10023716.html",
+    "timestamp": "2025-12-03T12:56:31.033Z"
+  },
+  {
+    "id": 52,
+    "price": 42200,
+    "originalPrice": 8440,
+    "originalVolume": 20,
+    "productUrl": "https://www.sephora.com.tr/p/j-adore-eau-de-parfum-P3087.html",
+    "timestamp": "2025-12-03T12:56:54.240Z"
+  },
+  {
+    "id": 53,
+    "price": 11072,
+    "originalPrice": 5536,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/classique---eau-de-toilette-P54205.html",
+    "timestamp": "2025-12-03T12:57:00.488Z"
+  },
+  {
+    "id": 58,
+    "price": 10533.33,
+    "originalPrice": 7900,
+    "originalVolume": 75,
+    "productUrl": "https://www.sephora.com.tr/p/hypnose-P13101.html",
+    "timestamp": "2025-12-03T12:57:47.049Z"
+  },
+  {
+    "id": 64,
+    "price": 13000,
+    "originalPrice": 6500,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/armani-acqua-di-gioia-edp-50-ml-P110904.html",
+    "timestamp": "2025-12-03T12:58:47.161Z"
+  },
+  {
+    "id": 71,
+    "price": 11200,
+    "originalPrice": 5600,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/acqua-di-gio-profondo---eau-de-parfum-P10057523.html",
+    "timestamp": "2025-12-03T12:59:44.548Z"
+  },
+  {
+    "id": 90,
+    "price": 8866.67,
+    "originalPrice": 6650,
+    "originalVolume": 75,
+    "productUrl": "https://www.sephora.com.tr/p/rush-edt-75-ml-P30595.html",
+    "timestamp": "2025-12-03T13:02:49.025Z"
+  },
+  {
+    "id": 96,
+    "price": 10416.67,
+    "originalPrice": 6250,
+    "originalVolume": 60,
+    "productUrl": "https://www.sephora.com.tr/p/myslf---eau-de-parfum-P10052153.html",
+    "timestamp": "2025-12-03T13:03:37.297Z"
+  },
+  {
+    "id": 97,
+    "price": 11200,
+    "originalPrice": 5600,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/prada-luna-rossa-carbon-eau-de-toilette-100-ml-P2909014.html",
+    "timestamp": "2025-12-03T13:03:44.675Z"
+  },
+  {
+    "id": 98,
+    "price": 9702,
+    "originalPrice": 4851,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/scandal-man-edt-P10016935.html",
+    "timestamp": "2025-12-03T13:03:51.613Z"
+  },
+  {
+    "id": 99,
+    "price": 10880,
+    "originalPrice": 5440,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/the-one-men-edp-50ml-P2285035.html",
+    "timestamp": "2025-12-03T13:03:57.922Z"
+  },
+  {
+    "id": 100,
+    "price": 9050,
+    "originalPrice": 4525,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/fahrenheit-eau-de-toilette-P3078.html",
+    "timestamp": "2025-12-03T13:04:04.773Z"
+  },
+  {
+    "id": 101,
+    "price": 11450,
+    "originalPrice": 5725,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/zadig-et-voltaire-this-is-her--edp-P2681001.html",
+    "timestamp": "2025-12-03T13:04:10.586Z"
+  },
+  {
+    "id": 103,
+    "price": 4189.33,
+    "originalPrice": 3142,
+    "originalVolume": 75,
+    "productUrl": "https://www.sephora.com.tr/p/hugo-intense---eau-de-parfum-P10056544.html",
+    "timestamp": "2025-12-03T13:04:32.208Z"
+  },
+  {
+    "id": 105,
+    "price": 12166.67,
+    "originalPrice": 3650,
+    "originalVolume": 30,
+    "productUrl": "https://www.sephora.com.tr/p/my-way-refill-150ml-P10010550.html",
+    "timestamp": "2025-12-03T13:04:47.502Z"
+  },
+  {
+    "id": 106,
+    "price": 15666.67,
+    "originalPrice": 4700,
+    "originalVolume": 30,
+    "productUrl": "https://www.sephora.com.tr/p/libre-intense-P10010558.html",
+    "timestamp": "2025-12-03T13:04:54.637Z"
+  },
+  {
+    "id": 110,
+    "price": 10800,
+    "originalPrice": 5400,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/emporio-armani-because-it%E2%80%99s-you-edp-50-ml-P2952002.html",
+    "timestamp": "2025-12-03T13:05:25.619Z"
+  },
+  {
+    "id": 111,
+    "price": 10080,
+    "originalPrice": 5040,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/versace-bright-crystal-edt-90-ml-P47909.html",
+    "timestamp": "2025-12-03T13:05:31.610Z"
+  },
+  {
+    "id": 112,
+    "price": 11200,
+    "originalPrice": 5600,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/versace-crystal-noir-edp-50-ml-P7404.html",
+    "timestamp": "2025-12-03T13:05:37.949Z"
+  },
+  {
+    "id": 113,
+    "price": 10480,
+    "originalPrice": 5240,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/miss-dior-blooming-bouquet---eau-de-toilette-P10047140.html",
+    "timestamp": "2025-12-03T13:05:47.050Z"
+  },
+  {
+    "id": 116,
+    "price": 12167.58,
+    "originalPrice": 6083.79,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/scandal-eau-de-parfum-50-ml-P2997027.html",
+    "timestamp": "2025-12-03T13:06:09.272Z"
+  },
+  {
+    "id": 118,
+    "price": 9102,
+    "originalPrice": 4551,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/1-million--eau-de-toilette-50-ml-P70703.html",
+    "timestamp": "2025-12-03T13:06:24.712Z"
+  },
+  {
+    "id": 120,
+    "price": 16532,
+    "originalPrice": 8266,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/jean-paul-gaultier-la-belle-edp-kadin-parfum-P3788002.html",
+    "timestamp": "2025-12-03T13:06:43.098Z"
+  },
+  {
+    "id": 121,
+    "price": 16533.33,
+    "originalPrice": 12400,
+    "originalVolume": 75,
+    "productUrl": "https://www.sephora.com.tr/p/supreme-bouquet---collection-orientale-P4111090.html",
+    "timestamp": "2025-12-03T13:06:49.600Z"
+  },
+  {
+    "id": 126,
+    "price": 15322,
+    "originalPrice": 7661,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/her-elixir---eau-de-parfum-for-her-P10047230.html",
+    "timestamp": "2025-12-03T13:07:34.375Z"
+  },
+  {
+    "id": 127,
+    "price": 5040,
+    "originalPrice": 5040,
+    "originalVolume": 100,
+    "productUrl": "https://www.sephora.com.tr/p/sexy-amber-30-ml-eau-de-parfum-P2688007.html",
+    "timestamp": "2025-12-03T13:07:40.821Z"
+  },
+  {
+    "id": 128,
+    "price": 19825,
+    "originalPrice": 3965,
+    "originalVolume": 20,
+    "productUrl": "https://www.sephora.com.tr/p/devotion---eau-de-parfum-P10053911.html",
+    "timestamp": "2025-12-03T13:07:47.634Z"
+  },
+  {
+    "id": 129,
+    "price": 13250,
+    "originalPrice": 3975,
+    "originalVolume": 30,
+    "productUrl": "https://www.sephora.com.tr/p/nomade-edp-30-ml-P3237013.html",
+    "timestamp": "2025-12-03T13:07:55.828Z"
+  },
+  {
+    "id": 130,
+    "price": 13408,
+    "originalPrice": 6704,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/divine---eau-de-parfum-P10052283.html",
+    "timestamp": "2025-12-03T13:08:03.272Z"
+  },
+  {
+    "id": 133,
+    "price": 11600,
+    "originalPrice": 3480,
+    "originalVolume": 30,
+    "productUrl": "https://www.sephora.com.tr/p/euphoria-woman-edp-P9201.html",
+    "timestamp": "2025-12-03T13:08:26.333Z"
+  },
+  {
+    "id": 134,
+    "price": 9802,
+    "originalPrice": 4901,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/burberry-goddess---eau-de-parfum-P10052709.html",
+    "timestamp": "2025-12-03T13:08:34.443Z"
+  },
+  {
+    "id": 136,
+    "price": 10133.33,
+    "originalPrice": 3040,
+    "originalVolume": 30,
+    "productUrl": "https://www.sephora.com.tr/p/dylan-purple---eau-de-parfum-P10044894.html",
+    "timestamp": "2025-12-03T13:08:55.213Z"
+  },
+  {
+    "id": 138,
+    "price": 13333.33,
+    "originalPrice": 4000,
+    "originalVolume": 30,
+    "productUrl": "https://www.sephora.com.tr/p/black-opium-over-red---eau-de-parfum-P10055930.html",
+    "timestamp": "2025-12-03T13:09:08.947Z"
+  },
+  {
+    "id": 139,
+    "price": 13900,
+    "originalPrice": 6950,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/la-vie-est-belle-intensement-P3967165.html",
+    "timestamp": "2025-12-03T13:09:17.190Z"
+  },
+  {
+    "id": 141,
+    "price": 14400,
+    "originalPrice": 7200,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/armani-code-femme-edp-75-ml-P21303.html",
+    "timestamp": "2025-12-03T13:09:32.600Z"
+  },
+  {
+    "id": 143,
+    "price": 11500,
+    "originalPrice": 5750,
+    "originalVolume": 50,
+    "productUrl": "https://www.sephora.com.tr/p/zen-eau-de-parfum-100-ml-P60745.html",
+    "timestamp": "2025-12-03T13:09:49.259Z"
+  }
+]

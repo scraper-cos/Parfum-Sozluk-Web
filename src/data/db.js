@@ -27,7 +27,8 @@ export const originals = [
         scentFamily: "Şipre / Çiçeksi",
         season: "Dört Mevsim",
         vibe: "Ofis, Şık Davet, İmza Koku"
-        ,
+        
+    ,
         price: 21750,
         originalPrice: 4350,
         originalVolume: 20,
@@ -59,9 +60,10 @@ export const originals = [
         scentFamily: "Oryantal / Gurme (Tatlı)",
         season: "Sonbahar – Kış",
         vibe: "Gece, Parti, Date (Randevu)"
-        ,
-        price: 15000,
-        originalPrice: 7500,
+        
+    ,
+        price: 20200,
+        originalPrice: 10100,
         originalVolume: 50,
         productUrl: "https://www.sephora.com.tr/p/black-opium-le-parfum---eau-de-parfum-P10047227.html"
     },
@@ -75,7 +77,8 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Kış",
         vibe: "Gece, Özel Davet, Gizemli"
-        ,
+        
+    ,
         price: 22300,
         originalPrice: 6690,
         originalVolume: 30,
@@ -123,7 +126,8 @@ export const originals = [
         scentFamily: "Odunsu / Sucul",
         season: "İlkbahar – Yaz",
         vibe: "Spor, Günlük, Genç"
-        ,
+        
+    ,
         price: 10452,
         originalPrice: 5226,
         originalVolume: 50,
@@ -155,11 +159,12 @@ export const originals = [
         scentFamily: "Fujer / Çiçeksi",
         season: "İlkbahar – Sonbahar",
         vibe: "Ofis, Toplantı, Güçlü Kadın"
-        ,
-        price: 15000,
-        originalPrice: 1500,
-        originalVolume: 10,
-        productUrl: "https://www.sephora.com.tr/p/libre---eau-de-parfum-P10015264.html"
+        
+    ,
+        price: 14166.67,
+        originalPrice: 4250,
+        originalVolume: 30,
+        productUrl: "https://www.sephora.com.tr/p/libre-P3800005.html"
     },
     {
         id: 11,
@@ -171,7 +176,8 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Sonbahar – Kış",
         vibe: "Gece, Parti, Seksi"
-        ,
+        
+    ,
         price: 12622,
         originalPrice: 6311,
         originalVolume: 50,
@@ -187,7 +193,8 @@ export const originals = [
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "İlkbahar – Yaz",
         vibe: "Günlük, Ofis, Romantik"
-        ,
+        
+    ,
         price: 27000,
         originalPrice: 5400,
         originalVolume: 20,
@@ -203,7 +210,8 @@ export const originals = [
         scentFamily: "Oryantal / Vanilya",
         season: "Kış",
         vibe: "Gece, Date, Baştan Çıkarıcı"
-        ,
+        
+    ,
         price: 12200,
         originalPrice: 6100,
         originalVolume: 50,
@@ -219,7 +227,8 @@ export const originals = [
         scentFamily: "Odunsu / Aromatik",
         season: "Dört Mevsim",
         vibe: "Ofis, Günlük, Beyefendi"
-        ,
+        
+    ,
         price: 10500,
         originalPrice: 5250,
         originalVolume: 50,
@@ -235,7 +244,8 @@ export const originals = [
         scentFamily: "Oryantal / Odunsu",
         season: "Sonbahar – Kış",
         vibe: "Gece, İddialı, Fark Edilir"
-        ,
+        
+    ,
         price: 14000,
         originalPrice: 4200,
         originalVolume: 30,
@@ -294,7 +304,8 @@ export const originals = [
         scentFamily: "Oryantal / Vanilya",
         season: "Kış",
         vibe: "Gece, Tutkulu, Özel Gün"
-        ,
+        
+    ,
         price: 12800,
         originalPrice: 6400,
         originalVolume: 50,
@@ -310,9 +321,10 @@ export const originals = [
         scentFamily: "Baharatlı / Oryantal",
         season: "Kış",
         vibe: "Şömine Başı, Soğuk Hava, Lüks"
-        ,
-        price: 79900,
-        originalPrice: 7990,
+        
+    ,
+        price: 173500,
+        originalPrice: 17350,
         originalVolume: 10,
         productUrl: "https://www.sephora.com.tr/p/tobacco-vanille-edp-30ml-P533009.html"
     },
@@ -326,7 +338,8 @@ export const originals = [
         scentFamily: "Aromatik / Odunsu",
         season: "İlkbahar – Yaz",
         vibe: "Tatil, Sahil, Rahatlama"
-        ,
+        
+    ,
         price: 10633.33,
         originalPrice: 3190,
         originalVolume: 30,
@@ -385,11 +398,12 @@ export const originals = [
         scentFamily: "Sucul / Aromatik",
         season: "Yaz",
         vibe: "Deniz Kenarı, Sıcak Hava"
-        ,
-        price: 11200,
-        originalPrice: 5600,
+        
+    ,
+        price: 9900,
+        originalPrice: 4950,
         originalVolume: 50,
-        productUrl: "https://www.sephora.com.tr/p/acqua-di-gio-profondo---eau-de-parfum-P10057523.html"
+        productUrl: "https://www.sephora.com.tr/p/acqua-di-gio---eau-de-toilette-P10057525.html"
     },
     {
         id: 26,
@@ -401,7 +415,8 @@ export const originals = [
         scentFamily: "Odunsu / Aromatik",
         season: "İlkbahar – Sonbahar",
         vibe: "Ofis, Günlük, Rahat"
-        ,
+        
+    ,
         price: 9874,
         originalPrice: 4937,
         originalVolume: 50,
@@ -417,7 +432,8 @@ export const originals = [
         scentFamily: "Deri / Odunsu",
         season: "Sonbahar – Kış",
         vibe: "Akşam Yemeği, Deri Ceket, Şık"
-        ,
+        
+    ,
         price: 10300,
         originalPrice: 5150,
         originalVolume: 50,
@@ -433,7 +449,8 @@ export const originals = [
         scentFamily: "Aromatik / Fujer",
         season: "Sonbahar – Kış",
         vibe: "Date, Soğuk Hava, Sıcaklık"
-        ,
+        
+    ,
         price: 10600,
         originalPrice: 5300,
         originalVolume: 50,
@@ -465,11 +482,12 @@ export const originals = [
         scentFamily: "Odunsu / Baharatlı",
         season: "Sonbahar – İlkbahar",
         vibe: "Ofis, Takım Elbise, Klasik"
-        ,
-        price: 7576,
-        originalPrice: 3788,
+        
+    ,
+        price: 8748,
+        originalPrice: 4374,
         originalVolume: 50,
-        productUrl: "https://www.sephora.com.tr/p/boss-bottled-edt-200-ml-P2384.html"
+        productUrl: "https://www.sephora.com.tr/p/boss-bottled-parfum---parfum-P10043387.html"
     },
     {
         id: 31,
@@ -481,7 +499,8 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Yaz – Sonbahar",
         vibe: "Akşamüstü, Tanrıça Vibe"
-        ,
+        
+    ,
         price: 11452,
         originalPrice: 5726,
         originalVolume: 50,
@@ -497,7 +516,8 @@ export const originals = [
         scentFamily: "Şipre / Çiçeksi (Bal)",
         season: "Kış",
         vibe: "Gece, Parti, Provokatif"
-        ,
+        
+    ,
         price: 13386,
         originalPrice: 6693,
         originalVolume: 50,
@@ -524,7 +544,8 @@ export const originals = [
         scentFamily: "Oryantal",
         season: "Sonbahar – İlkbahar",
         vibe: "Günlük, Ofis, Pudralı"
-        ,
+        
+    ,
         price: 5900,
         originalPrice: 2950,
         originalVolume: 50,
@@ -551,7 +572,8 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar – Yaz",
         vibe: "Piknik, Hafta Sonu, Rahat"
-        ,
+        
+    ,
         price: 4373,
         originalPrice: 4373,
         originalVolume: 100,
@@ -567,7 +589,8 @@ export const originals = [
         scentFamily: "Odunsu",
         season: "Sonbahar – Kış",
         vibe: "Yağmurlu Hava, Nostaljik"
-        ,
+        
+    ,
         price: 3846,
         originalPrice: 3846,
         originalVolume: 100,
@@ -594,7 +617,8 @@ export const originals = [
         scentFamily: "Aldehitli",
         season: "Dört Mevsim",
         vibe: "Opera, Resepsiyon, Klasik"
-        ,
+        
+    ,
         price: 12428.57,
         originalPrice: 4350,
         originalVolume: 35,
@@ -642,7 +666,8 @@ export const originals = [
         scentFamily: "Şipre",
         season: "İlkbahar – Sonbahar",
         vibe: "Ofis, Şehir Hayatı, Dinamik"
-        ,
+        
+    ,
         price: 12428.57,
         originalPrice: 4350,
         originalVolume: 35,
@@ -674,7 +699,8 @@ export const originals = [
         scentFamily: "Oryantal",
         season: "Kış",
         vibe: "Gece Kulübü, Seksi, Karanlık"
-        ,
+        
+    ,
         price: 12200,
         originalPrice: 6100,
         originalVolume: 50,
@@ -706,7 +732,8 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar – Sonbahar",
         vibe: "Günlük Şıklık, Işıltılı"
-        ,
+        
+    ,
         price: 10800,
         originalPrice: 5400,
         originalVolume: 50,
@@ -722,7 +749,8 @@ export const originals = [
         scentFamily: "Şipre",
         season: "Sonbahar – Kış",
         vibe: "Parti, Retro, İddialı"
-        ,
+        
+    ,
         price: 8866.67,
         originalPrice: 6650,
         originalVolume: 75,
@@ -754,7 +782,8 @@ export const originals = [
         scentFamily: "Oryantal",
         season: "Sonbahar – İlkbahar",
         vibe: "Akşam Yemeği, Altın Vibe"
-        ,
+        
+    ,
         price: 9874,
         originalPrice: 4937,
         originalVolume: 50,
@@ -797,7 +826,8 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar – Yaz",
         vibe: "Düğün, Altın Gün, Zarif"
-        ,
+        
+    ,
         price: 42200,
         originalPrice: 8440,
         originalVolume: 20,
@@ -813,7 +843,8 @@ export const originals = [
         scentFamily: "Oryantal",
         season: "Sonbahar – Kış",
         vibe: "Gece, Tiyatro, Feminen"
-        ,
+        
+    ,
         price: 11072,
         originalPrice: 5536,
         originalVolume: 50,
@@ -829,8 +860,9 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar – Kış",
         vibe: "Günlük, Pudralı, Özgün"
-        ,
-        price: 11750.00,
+        
+    ,
+        price: 11750,
         originalPrice: 5875,
         originalVolume: 50,
         productUrl: "https://www.sephora.com.tr/p/flower-by-kenzo-edp-100-ml-P2257.html"
@@ -872,9 +904,10 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar – Yaz",
         vibe: "Günlük, Enerjik, Çiçeksi"
-        ,
-        price: 1000,
-        originalPrice: 500,
+        
+    ,
+        price: 12800,
+        originalPrice: 6400,
         originalVolume: 50,
         productUrl: "https://www.sephora.com.tr/p/miracle-P14208.html"
     },
@@ -888,7 +921,8 @@ export const originals = [
         scentFamily: "Oryantal",
         season: "Sonbahar – Kış",
         vibe: "Akşam Yemeği, Büyüleyici"
-        ,
+        
+    ,
         price: 10533.33,
         originalPrice: 7900,
         originalVolume: 75,
@@ -927,7 +961,8 @@ export const originals = [
         season: "İlkbahar",
         vibe: "Ofis, Temiz, Gül Kokusu"
 
-        ,
+        
+    ,
         price: 12616.67,
         originalPrice: 3785,
         originalVolume: 30,
@@ -965,7 +1000,8 @@ export const originals = [
         scentFamily: "Sucul / Çiçeksi",
         season: "Yaz",
         vibe: "Tatil, Deniz, Ferah"
-        ,
+        
+    ,
         price: 13000,
         originalPrice: 6500,
         originalVolume: 50,
@@ -1073,7 +1109,8 @@ export const originals = [
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "İlkbahar – Yaz",
         vibe: "Klasik Çiçeksi, Zarif"
-        ,
+        
+    ,
         price: 11200,
         originalPrice: 5600,
         originalVolume: 50,
@@ -1292,7 +1329,8 @@ export const originals = [
         scentFamily: "Çiçeksi / Odunsu",
         season: "İlkbahar – Yaz",
         vibe: "Club, Parti, Çiçeksi/Ferah"
-        ,
+        
+    ,
         price: 8866.67,
         originalPrice: 6650,
         originalVolume: 75,
@@ -1378,7 +1416,8 @@ export const originals = [
         scentFamily: "Odunsu / Çiçeksi",
         season: "Dört Mevsim",
         vibe: "Modern, Temiz, Ofis, İmza"
-        ,
+        
+    ,
         price: 10416.67,
         originalPrice: 6250,
         originalVolume: 60,
@@ -1394,7 +1433,8 @@ export const originals = [
         scentFamily: "Aromatik / Fujer",
         season: "Dört Mevsim",
         vibe: "Ofis, Spor, Maskülen, Metalik"
-        ,
+        
+    ,
         price: 11200,
         originalPrice: 5600,
         originalVolume: 50,
@@ -1410,7 +1450,8 @@ export const originals = [
         scentFamily: "Odunsu / Oryantal",
         season: "Sonbahar – Kış",
         vibe: "Gece, Parti, Tatlı/Karamel"
-        ,
+        
+    ,
         price: 9702,
         originalPrice: 4851,
         originalVolume: 50,
@@ -1426,7 +1467,8 @@ export const originals = [
         scentFamily: "Odunsu / Baharatlı",
         season: "Sonbahar – Kış",
         vibe: "Date (Randevu), Romantik, Klas"
-        ,
+        
+    ,
         price: 10880,
         originalPrice: 5440,
         originalVolume: 50,
@@ -1442,7 +1484,8 @@ export const originals = [
         scentFamily: "Odunsu / Deri",
         season: "Sonbahar – Kış",
         vibe: "Deri Ceket, Asi, Maskülen"
-        ,
+        
+    ,
         price: 9050,
         originalPrice: 4525,
         originalVolume: 50,
@@ -1458,7 +1501,8 @@ export const originals = [
         scentFamily: "Odunsu / Gurme",
         season: "Sonbahar – Kış",
         vibe: "Rock-Chic, Salaş, Kremsi"
-        ,
+        
+    ,
         price: 11450,
         originalPrice: 5725,
         originalVolume: 50,
@@ -1490,11 +1534,12 @@ export const originals = [
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "Sonbahar – Kış",
         vibe: "Çekici, Meyvemsi, Akşam"
-        ,
-        price: 4189.33,
-        originalPrice: 3142,
-        originalVolume: 75,
-        productUrl: "https://www.sephora.com.tr/p/hugo-intense---eau-de-parfum-P10056544.html"
+        
+    ,
+        price: 8962,
+        originalPrice: 4481,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/boss-the-scent-for-her---elixir-parfum-intense-P10056423.html"
     },
     {
         id: 104,
@@ -1506,8 +1551,9 @@ export const originals = [
         scentFamily: "Meyvemsi / Gurme",
         season: "İlkbahar – Sonbahar",
         vibe: "Londra Sokakları, Çilekli, Modern"
-        ,
-        price: 9158.00,
+        
+    ,
+        price: 9158,
         originalPrice: 4579,
         originalVolume: 50,
         productUrl: "https://www.sephora.com.tr/p/her---eau-de-parfum-P3500017.html"
@@ -1522,7 +1568,8 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar – Yaz",
         vibe: "Çiçek Bahçesi, Gezme, Pozitif"
-        ,
+        
+    ,
         price: 12166.67,
         originalPrice: 3650,
         originalVolume: 30,
@@ -1538,7 +1585,8 @@ export const originals = [
         scentFamily: "Fujer / Oryantal",
         season: "Sonbahar – Kış",
         vibe: "Toplantı, Gece, Güçlü, Vanilya"
-        ,
+        
+    ,
         price: 15666.67,
         originalPrice: 4700,
         originalVolume: 30,
@@ -1570,11 +1618,12 @@ export const originals = [
         scentFamily: "Çiçeksi / Amber",
         season: "Dört Mevsim",
         vibe: "Trend, Günlük, Şık, Tatlı"
-        ,
+        
+    ,
         price: 15333.33,
         originalPrice: 4600,
         originalVolume: 30,
-        productUrl: "https://www.sephora.com.tr/p/paradoxe---eau-de-parfum-P10042190.html"
+        productUrl: "https://www.sephora.com.tr/p/paradoxe---eau-de-parfum-P10042190.html/"
     },
     {
         id: 110,
@@ -1602,11 +1651,12 @@ export const originals = [
         scentFamily: "Çiçeksi / Meyvemsi",
         season: "Sonbahar – Kış",
         vibe: "Aşk, Tatlı, Meyvemsi, Sıcak"
-        ,
-        price: 10080,
-        originalPrice: 5040,
+        
+    ,
+        price: 10800,
+        originalPrice: 5400,
         originalVolume: 50,
-        productUrl: "https://www.sephora.com.tr/p/versace-bright-crystal-edt-90-ml-P47909.html"
+        productUrl: "https://www.sephora.com.tr/p/emporio-armani-because-it%E2%80%99s-you-edp-50-ml-P2952002.html"
     },
     {
         id: 112,
@@ -1618,11 +1668,12 @@ export const originals = [
         scentFamily: "Çiçeksi / Fresh",
         season: "İlkbahar – Yaz",
         vibe: "Günlük, Temiz, Işıltılı"
-        ,
-        price: 11200,
-        originalPrice: 5600,
+        
+    ,
+        price: 10080,
+        originalPrice: 5040,
         originalVolume: 50,
-        productUrl: "https://www.sephora.com.tr/p/versace-crystal-noir-edp-50-ml-P7404.html"
+        productUrl: "https://www.sephora.com.tr/p/versace-bright-crystal-edt-90-ml-P47909.html"
     },
     {
         id: 113,
@@ -1634,11 +1685,12 @@ export const originals = [
         scentFamily: "Oryantal / Baharatlı",
         season: "Sonbahar – Kış",
         vibe: "Gece, Gizemli, Hindistan Cevizi"
-        ,
-        price: 10480,
-        originalPrice: 5240,
+        
+    ,
+        price: 11200,
+        originalPrice: 5600,
         originalVolume: 50,
-        productUrl: "https://www.sephora.com.tr/p/miss-dior-blooming-bouquet---eau-de-toilette-P10047140.html"
+        productUrl: "https://www.sephora.com.tr/p/versace-crystal-noir-edp-50-ml-P7404.html"
     },
     {
         id: 114,
@@ -1650,8 +1702,9 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar",
         vibe: "Düğün, Zarif, Prenses"
-        ,
-        price: 10480.00,
+        
+    ,
+        price: 10480,
         originalPrice: 5240,
         originalVolume: 50,
         productUrl: "https://www.sephora.com.tr/p/miss-dior-blooming-bouquet---eau-de-toilette-P10047140.html"
@@ -1725,11 +1778,12 @@ export const originals = [
         scentFamily: "Odunsu / Gurme",
         season: "Sonbahar – Kış",
         vibe: "Genç, Enerjik, Fındıklı, Tatlı"
-        ,
-        price: 16532,
-        originalPrice: 8266,
+        
+    ,
+        price: 9102,
+        originalPrice: 4551,
         originalVolume: 50,
-        productUrl: "https://www.sephora.com.tr/p/jean-paul-gaultier-la-belle-edp-kadin-parfum-P3788002.html"
+        productUrl: "https://www.sephora.com.tr/p/1-million--eau-de-toilette-50-ml-P70703.html"
     },
     {
         id: 121,
@@ -1757,8 +1811,9 @@ export const originals = [
         scentFamily: "Oryantal / Gurme",
         season: "Sonbahar – Kış",
         vibe: "Baştan Çıkarıcı, Armut, Vanilya"
-        ,
-        price: 16532.00,
+        
+    ,
+        price: 16532,
         originalPrice: 8266,
         originalVolume: 50,
         productUrl: "https://www.sephora.com.tr/p/jean-paul-gaultier-la-belle-edp-kadin-parfum-P3788002.html"
@@ -1773,7 +1828,8 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "İlkbahar – Sonbahar",
         vibe: "Lüks Davet, Sümbülteber, Oryantal"
-        ,
+        
+    ,
         price: 16533.33,
         originalPrice: 12400,
         originalVolume: 75,
@@ -1853,11 +1909,12 @@ export const originals = [
         scentFamily: "Meyvemsi / Gurme",
         season: "Sonbahar – Kış",
         vibe: "Kremsi, Çilekli Milkshake, Yoğun"
-        ,
-        price: 19825,
-        originalPrice: 3965,
-        originalVolume: 20,
-        productUrl: "https://www.sephora.com.tr/p/devotion---eau-de-parfum-P10053911.html"
+        
+    ,
+        price: 10076,
+        originalPrice: 5038,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/her-elixir---eau-de-parfum-for-her-P10047230.html"
     },
     {
         id: 129,
@@ -1869,11 +1926,12 @@ export const originals = [
         scentFamily: "Amber / Çiçeksi",
         season: "Sonbahar",
         vibe: "Şık Akşam Yemeği, Sıcak"
-        ,
-        price: 13250,
-        originalPrice: 3975,
-        originalVolume: 30,
-        productUrl: "https://www.sephora.com.tr/p/nomade-edp-30-ml-P3237013.html"
+        
+    ,
+        price: 5040,
+        originalPrice: 5040,
+        originalVolume: 100,
+        productUrl: "https://www.sephora.com.tr/p/sexy-amber-30-ml-eau-de-parfum-P2688007.html"
     },
     {
         id: 130,
@@ -1885,11 +1943,12 @@ export const originals = [
         scentFamily: "Gurme / Narenciye",
         season: "Sonbahar – Kış",
         vibe: "Gurme, Limonlu Kek, Neşeli"
-        ,
-        price: 13408,
-        originalPrice: 6704,
-        originalVolume: 50,
-        productUrl: "https://www.sephora.com.tr/p/divine---eau-de-parfum-P10052283.html"
+        
+    ,
+        price: 35275,
+        originalPrice: 7055,
+        originalVolume: 20,
+        productUrl: "https://www.sephora.com.tr/p/devotion---eau-de-parfum-P10053911.html"
     },
     {
         id: 131,
@@ -1901,8 +1960,9 @@ export const originals = [
         scentFamily: "Şipre / Çiçeksi",
         season: "İlkbahar – Sonbahar",
         vibe: "Özgür Ruh, Seyahat, Şipre"
-        ,
-        price: 13250.00,
+        
+    ,
+        price: 13250,
         originalPrice: 3975,
         originalVolume: 30,
         productUrl: "https://www.sephora.com.tr/p/nomade-edp-30-ml-P3237013.html"
@@ -1917,8 +1977,9 @@ export const originals = [
         scentFamily: "Gurme / Tuzlu",
         season: "Yaz",
         vibe: "Deniz Kenarı, Tuzlu, Tanrıça"
-        ,
-        price: 13408.00,
+        
+    ,
+        price: 13408,
         originalPrice: 6704,
         originalVolume: 50,
         productUrl: "https://www.sephora.com.tr/p/divine---eau-de-parfum-P10052283.html"
@@ -1965,8 +2026,9 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Sonbahar – Kış",
         vibe: "Gece, Odunsu, Oryantal"
-        ,
-        price: 11600.00,
+        
+    ,
+        price: 11600,
         originalPrice: 3480,
         originalVolume: 30,
         productUrl: "https://www.sephora.com.tr/p/euphoria-woman-edp-P9201.html"
@@ -1981,11 +2043,12 @@ export const originals = [
         scentFamily: "Aromatik / Gurme",
         season: "Sonbahar – Kış",
         vibe: "Sakin Güç, Lavanta, Vanilya"
-        ,
-        price: 10133.33,
-        originalPrice: 3040,
-        originalVolume: 30,
-        productUrl: "https://www.sephora.com.tr/p/dylan-purple---eau-de-parfum-P10044894.html"
+        
+    ,
+        price: 9802,
+        originalPrice: 4901,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/burberry-goddess---eau-de-parfum-P10052709.html"
     },
     {
         id: 137,
@@ -2013,11 +2076,12 @@ export const originals = [
         scentFamily: "Meyvemsi / Çiçeksi",
         season: "Yaz",
         vibe: "Gündüz, Enerjik, Meyvemsi, Genç"
-        ,
-        price: 13333.33,
-        originalPrice: 4000,
+        
+    ,
+        price: 10133.33,
+        originalPrice: 3040,
         originalVolume: 30,
-        productUrl: "https://www.sephora.com.tr/p/black-opium-over-red---eau-de-parfum-P10055930.html"
+        productUrl: "https://www.sephora.com.tr/p/dylan-purple---eau-de-parfum-P10044894.html"
     },
     {
         id: 140,
@@ -2029,7 +2093,8 @@ export const originals = [
         scentFamily: "Gurme / Meyvemsi",
         season: "Sonbahar – Kış",
         vibe: "Gece, Randevu (Date), Kirazlı & Çekici"
-        ,
+        
+    ,
         price: 13333.33,
         originalPrice: 4000,
         originalVolume: 30,
@@ -2077,11 +2142,12 @@ export const originals = [
         scentFamily: "Çiçeksi / Narenciye",
         season: "Sonbahar – Kış",
         vibe: "Gece, Gizemli, Davet, Portakal Çiçeği"
-        ,
-        price: 11500,
-        originalPrice: 5750,
+        
+    ,
+        price: 14400,
+        originalPrice: 7200,
         originalVolume: 50,
-        productUrl: "https://www.sephora.com.tr/p/zen-eau-de-parfum-100-ml-P60745.html"
+        productUrl: "https://www.sephora.com.tr/p/armani-code-femme-edp-75-ml-P21303.html"
     },
     {
         id: 144,
@@ -2104,8 +2170,9 @@ export const originals = [
         scentFamily: "Çiçeksi / Odunsu",
         season: "Dört Mevsim",
         vibe: "Ofis, Modern, Ferah, Altın Şıklığı"
-        ,
-        price: 11500.00,
+        
+    ,
+        price: 11500,
         originalPrice: 5750,
         originalVolume: 50,
         productUrl: "https://www.sephora.com.tr/p/zen-eau-de-parfum-100-ml-P60745.html"
@@ -2175,6 +2242,11 @@ export const originals = [
         scentFamily: "Çiçeksi / Amber (Solar)",
         season: "Yaz",
         vibe: "Plaj, Tatil, Güneşli"
+    ,
+        price: 10030,
+        originalPrice: 5015,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/bronze-goddess-eau-fraiche-P3706002.html"
     },
     {
         id: 151,
@@ -2186,6 +2258,11 @@ export const originals = [
         scentFamily: "Turunçgil / Aromatik",
         season: "Yaz",
         vibe: "Gündüz, Dışarı, Ferah"
+    ,
+        price: 9170,
+        originalPrice: 9170,
+        originalVolume: 100,
+        productUrl: "https://www.sephora.com.tr/p/le-jardin-de-monsieur-li--eau-de-toilette-P2122001.html"
     },
     {
         id: 152,
@@ -2197,6 +2274,11 @@ export const originals = [
         scentFamily: "Odunsu / Amber",
         season: "Sonbahar",
         vibe: "Gündüz, Ofis, Sofistike"
+    ,
+        price: 13460,
+        originalPrice: 6730,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/eau-des-merveilles--eau-de-toilette-P1626001.html"
     },
     {
         id: 153,
@@ -2208,6 +2290,11 @@ export const originals = [
         scentFamily: "Oryantal / Gurme (Tatlı)",
         season: "Sonbahar / Kış",
         vibe: "Romantik Buluşma, Tatlı, Çekici"
+    ,
+        price: 24140,
+        originalPrice: 12070,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/love---eau-de-parfum-P4003095.html"
     },
     {
         id: 154,
@@ -2252,6 +2339,11 @@ export const originals = [
         scentFamily: "Oryantal / Çiçeksi",
         season: "Sonbahar / Kış",
         vibe: "Gece, Özel Yemek, Lüks"
+    ,
+        price: 34000,
+        originalPrice: 10200,
+        originalVolume: 30,
+        productUrl: "https://www.sephora.com.tr/p/lost-cherry-edp-30ml-P3686101.html"
     },
     {
         id: 158,
@@ -2274,6 +2366,11 @@ export const originals = [
         scentFamily: "Odunsu / Şipre",
         season: "Kış",
         vibe: "Gece, Gizemli, Odunsu"
+    ,
+        price: 7915.56,
+        originalPrice: 7124,
+        originalVolume: 90,
+        productUrl: "https://www.sephora.com.tr/p/gucci-guilty-absolute-eau-de-parfum-for-her-50ml-P3237002.html"
     },
     {
         id: 160,
@@ -2285,6 +2382,11 @@ export const originals = [
         scentFamily: "Çiçeksi (Fujer)",
         season: "ilkbahar / Sonbahar",
         vibe: "Gündüz, Ofis, Hafif"
+    ,
+        price: 13333.33,
+        originalPrice: 4000,
+        originalVolume: 30,
+        productUrl: "https://www.sephora.com.tr/p/libre-P10014842.html"
     },
     {
         id: 161,
@@ -2296,6 +2398,11 @@ export const originals = [
         scentFamily: "Çiçeksi",
         season: "İlkbahar / Yaz",
         vibe: "Gündüz, Bahçe, Taze"
+    ,
+        price: 6995,
+        originalPrice: 6995,
+        originalVolume: 100,
+        productUrl: "https://www.sephora.com.tr/p/orange-blossom---cologne-P3153017.html"
     },
     {
         id: 162,
@@ -2318,6 +2425,11 @@ export const originals = [
         scentFamily: "Çiçeksi / Amber",
         season: "Sonbahar / Kış",
         vibe: "Gündüz, Ofis, Temiz/Kremsi"
+    ,
+        price: 7728,
+        originalPrice: 3864,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/signature-edp-P10019669.html"
     },
     {
         id: 164,
@@ -2329,6 +2441,11 @@ export const originals = [
         scentFamily: "Odunsu / Oryantal",
         season: "Sonbahar / Kış",
         vibe: "Gece, Özel Davet, Şık"
+    ,
+        price: 11400,
+        originalPrice: 5700,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/born-in-roma-intense-uomo---eau-de-parfum-P10047761.html"
     },
     {
         id: 165,
@@ -2362,6 +2479,11 @@ export const originals = [
         scentFamily: "Odunsu / Çiçeksi",
         season: "Sonbahar / Kış",
         vibe: "Gece, Ofis, Beyefendi"
+    ,
+        price: 9791.67,
+        originalPrice: 5875,
+        originalVolume: 60,
+        productUrl: "https://www.sephora.com.tr/p/gentleman-givenchy-edp-P3275011.html"
     },
     {
         id: 168,
@@ -2384,6 +2506,11 @@ export const originals = [
         scentFamily: "Oryantal / Odunsu",
         season: "Sonbahar / Kış",
         vibe: "Gece, Ev, Rahatlatıcı"
+    ,
+        price: 18720,
+        originalPrice: 9360,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/myrrh-et-tonka-cologne-intense-P3153010.html"
     },
     {
         id: 170,
@@ -2406,6 +2533,11 @@ export const originals = [
         scentFamily: "Odunsu / Su",
         season: "Yaz",
         vibe: "Plaj, Havuz, Enerjik"
+    ,
+        price: 9102,
+        originalPrice: 4551,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/invictus-eau-de-toilette-P1441001.html"
     },
     {
         id: 172,
@@ -2417,6 +2549,11 @@ export const originals = [
         scentFamily: "Narenciye",
         season: "Yaz",
         vibe: "Gündüz, Sıcak Hava, Temiz"
+    ,
+        price: 9050,
+        originalPrice: 4525,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/dior-homme-P4008126.html"
     },
     {
         id: 173,
@@ -2439,6 +2576,11 @@ export const originals = [
         scentFamily: "Narenciye / Aromatik",
         season: "Yaz",
         vibe: "Gündüz, Tatil, Lüks"
+    ,
+        price: 129000,
+        originalPrice: 12900,
+        originalVolume: 10,
+        productUrl: "https://www.sephora.com.tr/p/neroli-portofino-edp-50ml-P533026.html"
     },
     {
         id: 175,
@@ -2450,6 +2592,11 @@ export const originals = [
         scentFamily: "Odunsu / Şipre",
         season: "Kış",
         vibe: "Gece, Büyüleyici, Gotik"
+    ,
+        price: 12200,
+        originalPrice: 6100,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/hypnotic-poison-eau-de-parfum-P1714008.html"
     },
     {
         id: 176,
@@ -2461,6 +2608,11 @@ export const originals = [
         scentFamily: "Odunsu",
         season: "Her Mevsim",
         vibe: "Ofis, İmza Koku, Modern"
+    ,
+        price: 9050,
+        originalPrice: 4525,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/dior-homme-P4008126.html"
     },
     {
         id: 177,
@@ -2472,6 +2624,11 @@ export const originals = [
         scentFamily: "Odunsu / Baharatlı",
         season: "Kış",
         vibe: "Gece, Resmi, Kraliyet"
+    ,
+        price: 4750,
+        originalPrice: 4750,
+        originalVolume: 100,
+        productUrl: "https://www.sephora.com.tr/p/oud-royal-parfum-P10019421.html"
     },
     {
         id: 178,
@@ -2505,6 +2662,11 @@ export const originals = [
         scentFamily: "Odunsu / Su",
         season: "Yaz",
         vibe: "Gündüz, Akşamüstü, Yoğun"
+    ,
+        price: 11200,
+        originalPrice: 5600,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/acqua-di-gio---eau-de-parfum-P10057338.html"
     },
     {
         id: 181,
@@ -2516,6 +2678,11 @@ export const originals = [
         scentFamily: "Çiçeksi / Oryantal",
         season: "İlkbahar / Sonbahar",
         vibe: "Gündüz, Bohem, Yumuşak"
+    ,
+        price: 6995,
+        originalPrice: 6995,
+        originalVolume: 100,
+        productUrl: "https://www.sephora.com.tr/p/mimosa-et-cardamom-cologne-P3153015.html"
     },
     {
         id: 182,
@@ -2527,6 +2694,11 @@ export const originals = [
         scentFamily: "Odunsu / Oryantal",
         season: "Kış",
         vibe: "Gece, Resmi Davet, Lüks"
+    ,
+        price: 16200,
+        originalPrice: 16200,
+        originalVolume: 100,
+        productUrl: "https://www.sephora.com.tr/p/armani-prive-oud-royal---eau-de-parfum-P1000205725.html"
     },
     {
         id: 183,
@@ -2538,6 +2710,11 @@ export const originals = [
         scentFamily: "Odunsu / Amber",
         season: "Sonbahar / Kış",
         vibe: "Gece, Çekici, Sıcak"
+    ,
+        price: 10333.33,
+        originalPrice: 6200,
+        originalVolume: 60,
+        productUrl: "https://www.sephora.com.tr/p/l-homme-intense-edp-P10024131.html"
     },
     {
         id: 184,
@@ -2549,6 +2726,11 @@ export const originals = [
         scentFamily: "Odunsu / Baharatlı",
         season: "Yaz / İlkbahar",
         vibe: "Gündüz, Spor, Enerjik"
+    ,
+        price: 9300,
+        originalPrice: 4650,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/allure-homme-sport-P96086.html"
     },
     {
         id: 185,
@@ -2560,6 +2742,11 @@ export const originals = [
         scentFamily: "Odunsu / Aromatik",
         season: "Yaz",
         vibe: "Gündüz, Tatil, Egzotik"
+    ,
+        price: 6341.33,
+        originalPrice: 4756,
+        originalVolume: 75,
+        productUrl: "https://www.sephora.com.tr/p/jean-paul-gaultier-le-beau-edt-erkek-parfum-P3788001.html"
     },
     {
         id: 186,
@@ -2571,6 +2758,11 @@ export const originals = [
         scentFamily: "Çiçeksi / Su",
         season: "Yaz",
         vibe: "Gündüz, Bahçe, Doğal"
+    ,
+        price: 9170,
+        originalPrice: 9170,
+        originalVolume: 100,
+        productUrl: "https://www.sephora.com.tr/p/un-jardin-en-mediterranee--eau-de-toilette-P1626037.html"
     },
     {
         id: 187,
@@ -2582,6 +2774,11 @@ export const originals = [
         scentFamily: "Oryantal / Baharatlı",
         season: "Kış",
         vibe: "Gece, Kulüp, Yoğun"
+    ,
+        price: 12800,
+        originalPrice: 6400,
+        originalVolume: 50,
+        productUrl: "https://www.sephora.com.tr/p/armani-code---le-parfum-P10043241.html"
     }
 ];
 
