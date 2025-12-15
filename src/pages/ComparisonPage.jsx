@@ -128,6 +128,19 @@ const ComparisonPage = () => {
     // Determine winners
     const getWinner = (val1, val2) => val1 > val2 ? 'left' : 'right';
 
+    // Determine winners for AI Summary
+    const nightCondition = stats1.night > stats2.night;
+    const freshCondition = stats2.fresh > stats1.fresh;
+
+    const summaryWinner1 = nightCondition ? item1.name : item2.name;
+    const summaryWinner2 = freshCondition ? item2.name : item1.name;
+
+    const summaryText1 = nightCondition ? 'gece hayatı ve eğlence' : 'günlük kullanım ve ofis';
+    const summaryText2 = freshCondition ? 'ferahlık ve temizlik' : 'karakteristik ve yoğunluk';
+
+    // Same perfume name? Use "Ayrıca" (Also), otherwise "Ancak" (However)
+    const summaryConnector = summaryWinner1 === summaryWinner2 ? 'Ayrıca' : 'Ancak';
+
     // Dynamic Config
     const config = {
         "screen_title": "Karşılaştırma",
@@ -227,7 +240,7 @@ const ComparisonPage = () => {
             },
             {
                 "type": "ai_summary_card",
-                "content": `Eğer **${stats1.night > stats2.night ? 'gece hayatı ve eğlence' : 'günlük kullanım ve ofis'}** için bir koku arıyorsan ${stats1.night > stats2.night ? item1.name : item2.name} daha uygun. Ancak **${stats2.fresh > stats1.fresh ? 'ferahlık ve temizlik' : 'karakteristik ve yoğunluk'}** önceliğinse ${stats2.fresh > stats1.fresh ? item2.name : item1.name} tercih etmelisin.`,
+                "content": `Eğer **${summaryText1}** için bir koku arıyorsan ${summaryWinner1} daha uygun. ${summaryConnector} **${summaryText2}** önceliğinse ${summaryWinner2} tercih etmelisin.`,
                 "background_style": "gradient_blue_to_red"
             }
         ]
