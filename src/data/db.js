@@ -2318,6 +2318,270 @@ export const originals = [
         scentFamily: "Çiçeksi / Amber",
         season: "Sonbahar / Kış",
         vibe: "Gündüz, Ofis, Temiz/Kremsi"
+    },
+    {
+        id: 164,
+        brand: "Valentino",
+        name: "Uomo Intense",
+        gender: "Erkek",
+        notes: "İris, Vanilya, Küçük Hindistan Cevizi, Lavanta, Sedir, Vetiver",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Oryantal",
+        season: "Sonbahar / Kış",
+        vibe: "Gece, Özel Davet, Şık"
+    },
+    {
+        id: 165,
+        brand: "Issey Miyake",
+        name: "L'Eau d'Issey Pour Homme",
+        gender: "Erkek",
+        notes: "Yuzu (Japon Limonu), Tarçın, Küçük Hindistan Cevizi, Sandal Ağacı, Nilüfer",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Su",
+        season: "İlkbahar / Yaz",
+        vibe: "Gündüz, Ofis, Ferah"
+    },
+    {
+        id: 166,
+        brand: "YSL",
+        name: "Y",
+        gender: "Erkek",
+        notes: "Yeşil Elma, Zencefil, Adaçayı, Sardunya, Sedir Ağacı, Tonka Fasulyesi",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Aromatik / Fujer",
+        season: "İlkbahar / Sonbahar",
+        vibe: "Gündüz, Ofis, Modern"
+    },
+    {
+        id: 167,
+        brand: "Givenchy",
+        name: "Gentleman",
+        gender: "Erkek",
+        notes: "Armut, İris, Lavanta, Deri, Paçuli, Karabiber",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Çiçeksi",
+        season: "Sonbahar / Kış",
+        vibe: "Gece, Ofis, Beyefendi"
+    },
+    {
+        id: 168,
+        brand: "Creed",
+        name: "Silver Mountain Water",
+        gender: "Unisex",
+        notes: "Bergamot, Mandalina, Yeşil Çay, Frenk Üzümü, Misk, Sandal Ağacı",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Aromatik / Meyvemsi",
+        season: "İlkbahar / Yaz",
+        vibe: "Gündüz, Tatil, Dağ Havası"
+    },
+    {
+        id: 169,
+        brand: "Jo Malone",
+        name: "Myrrh & Tonka",
+        gender: "Unisex",
+        notes: "Lavanta, Omumbiri Mür, Tonka Fasulyesi, Vanilya, Badem",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Oryantal / Odunsu",
+        season: "Sonbahar / Kış",
+        vibe: "Gece, Ev, Rahatlatıcı"
+    },
+    {
+        id: 170,
+        brand: "Hugo Boss",
+        name: "Bottled Unlimited",
+        gender: "Erkek",
+        notes: "Nane, Greyfurt, Ananas, Tarçın, Gül, Sandal Ağacı, Beyaz Misk",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Aromatik / Fujer",
+        season: "Yaz",
+        vibe: "Gündüz, Spor, Dinamik"
+    },
+    {
+        id: 171,
+        brand: "Paco Rabanne",
+        name: "Invictus Aqua",
+        gender: "Erkek",
+        notes: "Yuzu, Greyfurt, Menekşe Yaprağı, Deniz Suyu, Amber Ağacı",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Su",
+        season: "Yaz",
+        vibe: "Plaj, Havuz, Enerjik"
+    },
+    {
+        id: 172,
+        brand: "Dior",
+        name: "Homme Cologne",
+        gender: "Erkek",
+        notes: "Kalabriya Bergamotu, Greyfurt Çiçeği, Beyaz Misk",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Narenciye",
+        season: "Yaz",
+        vibe: "Gündüz, Sıcak Hava, Temiz"
+    },
+    {
+        id: 173,
+        brand: "Burberry",
+        name: "For Men (Classic)",
+        gender: "Erkek",
+        notes: "Bergamot, Lavanta, Taze Nane, Sandal Ağacı, Sedir, Amber",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Aromatik",
+        season: "Sonbahar",
+        vibe: "Gündüz, Ofis, Klasik"
+    },
+    {
+        id: 174,
+        brand: "Tom Ford",
+        name: "Neroli Portofino",
+        gender: "Unisex",
+        notes: "Tunus Neroli, İtalyan Bergamotu, Sicilya Limonu, Portakal Çiçeği, Amber",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Narenciye / Aromatik",
+        season: "Yaz",
+        vibe: "Gündüz, Tatil, Lüks"
+    },
+    {
+        id: 175,
+        brand: "Dior",
+        name: "Midnight Poison",
+        gender: "Kadın",
+        notes: "Bergamot, Mandalina, Gül, Paçuli, Amber, Vanilya",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Şipre",
+        season: "Kış",
+        vibe: "Gece, Büyüleyici, Gotik"
+    },
+    {
+        id: 176,
+        brand: "Dior",
+        name: "Homme (2020)",
+        gender: "Erkek",
+        notes: "Bergamot, Pembe Biber, Atlas Sediri, Kaşmir Ağacı, Vetiver, Misk",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu",
+        season: "Her Mevsim",
+        vibe: "Ofis, İmza Koku, Modern"
+    },
+    {
+        id: 177,
+        brand: "Creed",
+        name: "Royal Oud",
+        gender: "Unisex",
+        notes: "Limon, Pembe Biber, Sedir, Galbanum, Melek Otu, Ud, Sandal Ağacı",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Baharatlı",
+        season: "Kış",
+        vibe: "Gece, Resmi, Kraliyet"
+    },
+    {
+        id: 178,
+        brand: "Armani",
+        name: "White (He)",
+        gender: "Erkek",
+        notes: "Bergamot, Mandalina, Limon, Papatya, Biberiye, Beyaz Misk",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Narenciye / Aromatik",
+        season: "Yaz",
+        vibe: "Gündüz, Temiz, Beyaz Gömlek"
+    },
+    {
+        id: 179,
+        brand: "Maison Margiela",
+        name: "By the Fireplace",
+        gender: "Unisex",
+        notes: "Karanfil, Pembe Biber, Portakal Çiçeği, Kestane, Guaiac Ağacı, Vanilya",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Amber",
+        season: "Kış",
+        vibe: "Gece, Kış Tatili, Sıcak"
+    },
+    {
+        id: 180,
+        brand: "Armani",
+        name: "Acqua di Gio Essenza",
+        gender: "Erkek",
+        notes: "Su Notaları, Bergamot, Greyfurt, Fesleğen, Adaçayı, Sedir, Paçuli",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Su",
+        season: "Yaz",
+        vibe: "Gündüz, Akşamüstü, Yoğun"
+    },
+    {
+        id: 181,
+        brand: "Jo Malone",
+        name: "Mimosa & Cardamom",
+        gender: "Unisex",
+        notes: "Kakule, Mimoza, Tonka Fasulyesi",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Çiçeksi / Oryantal",
+        season: "İlkbahar / Sonbahar",
+        vibe: "Gündüz, Bohem, Yumuşak"
+    },
+    {
+        id: 182,
+        brand: "Armani Privé",
+        name: "Oud Royal",
+        gender: "Unisex",
+        notes: "Safran, Gül, Ud (Öd Ağacı), Sandal Ağacı, Tütsü, Amber",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Oryantal",
+        season: "Kış",
+        vibe: "Gece, Resmi Davet, Lüks"
+    },
+    {
+        id: 183,
+        brand: "YSL",
+        name: "L'Homme Parfum Intense",
+        gender: "Erkek",
+        notes: "Limon, Karabiber, Portakal Çiçeği, Pelin Otu, Ambergris, Odunsu Notalar",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Amber",
+        season: "Sonbahar / Kış",
+        vibe: "Gece, Çekici, Sıcak"
+    },
+    {
+        id: 184,
+        brand: "Chanel",
+        name: "Allure Homme Sport",
+        gender: "Erkek",
+        notes: "Mandalina, Deniz Notaları, Biber, Neroli, Sedir, Vetiver, Tonka, Misk",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Baharatlı",
+        season: "Yaz / İlkbahar",
+        vibe: "Gündüz, Spor, Enerjik"
+    },
+    {
+        id: 185,
+        brand: "Jean Paul Gaultier",
+        name: "Le Beau",
+        gender: "Erkek",
+        notes: "Bergamot, Hindistan Cevizi Ağacı, Tonka Fasulyesi",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Odunsu / Aromatik",
+        season: "Yaz",
+        vibe: "Gündüz, Tatil, Egzotik"
+    },
+    {
+        id: 186,
+        brand: "Hermès",
+        name: "Un Jardin En Méditerranée",
+        gender: "Unisex",
+        notes: "İncir Ağacı, Mastik (Sakız Ağacı), Bergamot, Portakal Çiçeği, Oleander",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Çiçeksi / Su",
+        season: "Yaz",
+        vibe: "Gündüz, Bahçe, Doğal"
+    },
+    {
+        id: 187,
+        brand: "Armani",
+        name: "Code Profumo",
+        gender: "Erkek",
+        notes: "Yeşil Mandalina, Yeşil Elma, Kakule, Portakal Çiçeği, Lavanta, Tonka, Deri",
+        image: "/parfumler/default.jpg",
+        scentFamily: "Oryantal / Baharatlı",
+        season: "Kış",
+        vibe: "Gece, Kulüp, Yoğun"
     }
 ];
 
@@ -3022,7 +3286,110 @@ export const dupes = [
     { id: 1307, originalId: 13, brand: "Zara", code: "Hypnotic Vanilla", similarity: 90 },
 
     // Dior Miss Dior Blooming Bouquet (ID: 114)
-    { id: 11402, originalId: 114, brand: "Zara", code: "Lightly Bloom", similarity: 90 }
+    { id: 11402, originalId: 114, brand: "Zara", code: "Lightly Bloom", similarity: 90 },
+
+    // --- ZARA İTHAL LİSTE (DEVAMI) ---
+
+    // Valentino Uomo Intense (ID: 164)
+    { id: 16401, originalId: 164, brand: "Zara", code: "Imperial Purple", similarity: 90 },
+
+    // Issey Miyake L'Eau d'Issey Pour Homme (ID: 165)
+    { id: 16501, originalId: 165, brand: "Zara", code: "Infinite Wave", similarity: 90 },
+
+    // Louis Vuitton Imagination (ID: 23)
+    { id: 2301, originalId: 23, brand: "Zara", code: "Les Heures Passent", similarity: 90 },
+    { id: 2302, originalId: 23, brand: "Zara", code: "Sunrise on the Red Sand Dunes", similarity: 90 },
+
+    // Armani Acqua di Gio (ID: 25)
+    { id: 2501, originalId: 25, brand: "Zara", code: "Lisboa", similarity: 90 },
+
+    // YSL Y (ID: 166)
+    { id: 16601, originalId: 166, brand: "Zara", code: "London Seville Row", similarity: 90 },
+
+    // Givenchy Gentleman (ID: 167)
+    { id: 16701, originalId: 167, brand: "Zara", code: "Los Angeles", similarity: 90 },
+
+    // Dior Sauvage (ID: 1)
+    { id: 106, originalId: 1, brand: "Zara", code: "Scent #2", similarity: 90 },
+
+    // Creed Silver Mountain Water (ID: 168)
+    { id: 16801, originalId: 168, brand: "Zara", code: "Soft Haze", similarity: 90 },
+
+    // Jo Malone Myrrh & Tonka (ID: 169)
+    { id: 16901, originalId: 169, brand: "Zara", code: "Starlight Vanilla", similarity: 90 },
+
+    // Jean Paul Gaultier La Belle (ID: 122)
+    { id: 12202, originalId: 122, brand: "Zara", code: "Sultry Pear", similarity: 90 },
+
+    // Hugo Boss Bottled Unlimited (ID: 170)
+    { id: 17001, originalId: 170, brand: "Zara", code: "Summer Collection", similarity: 90 },
+
+    // Paco Rabanne Invictus Aqua (ID: 171)
+    { id: 17101, originalId: 171, brand: "Zara", code: "Surfing Mullaghmore", similarity: 90 },
+
+    // Tom Ford Tobacco Vanille (ID: 20)
+    { id: 2001, originalId: 20, brand: "Zara", code: "Tobacco Collection", similarity: 90 },
+
+    // Dior Homme Cologne (ID: 172)
+    { id: 17201, originalId: 172, brand: "Zara", code: "Vibrant Leather Cologne", similarity: 90 },
+
+    // Burberry For Men (Classic) (ID: 173)
+    { id: 17301, originalId: 173, brand: "Zara", code: "7.0 Zara", similarity: 90 },
+
+    // Tom Ford Neroli Portofino (ID: 174)
+    { id: 17401, originalId: 174, brand: "Zara", code: "Amalfi Sunray", similarity: 90 },
+
+    // Armani Stronger With You (ID: 28)
+    { id: 2804, originalId: 28, brand: "Zara", code: "Amber Ego", similarity: 90 },
+    { id: 2805, originalId: 28, brand: "Zara", code: "Elegant Opulence", similarity: 90 },
+
+    // Dior Midnight Poison (ID: 175)
+    { id: 17501, originalId: 175, brand: "Zara", code: "Azul Noche", similarity: 90 },
+
+    // Dior Homme 2020 (ID: 176)
+    { id: 17601, originalId: 176, brand: "Zara", code: "Bergamot & Leather Spritz", similarity: 90 },
+
+    // D&G The One (Women) (ID: 17)
+    { id: 1703, originalId: 17, brand: "Zara", code: "Black Amber", similarity: 90 },
+
+    // Creed Royal Oud (ID: 177)
+    { id: 17701, originalId: 177, brand: "Zara", code: "Black Pepper & Cedarwood", similarity: 90 },
+
+    // Armani White (He) (ID: 178)
+    { id: 17801, originalId: 178, brand: "Zara", code: "Black Tag", similarity: 90 },
+
+    // Paco Rabanne Invictus (ID: 8) - Blue Spirit (listed as Zara in image, adding mapping)
+    { id: 805, originalId: 8, brand: "Zara", code: "Blue Spirit", similarity: 90 },
+
+    // Maison Margiela By the Fireplace (ID: 179)
+    { id: 17901, originalId: 179, brand: "Zara", code: "Bohemian Oud", similarity: 90 },
+
+    // Armani Acqua di Gio Essenza (ID: 180)
+    { id: 18001, originalId: 180, brand: "Zara", code: "Bohemian Sunset", similarity: 90 },
+
+    // Jo Malone Mimosa & Cardamom (ID: 181)
+    { id: 18101, originalId: 181, brand: "Zara", code: "Boldly Seoul", similarity: 90 },
+
+    // Jo Malone Wood Sage & Sea Salt (ID: 21)
+    { id: 2101, originalId: 21, brand: "Zara", code: "Ebony Wood", similarity: 90 },
+
+    // Armani Privé Oud Royal (ID: 182)
+    { id: 18201, originalId: 182, brand: "Zara", code: "Exclusive Oud", similarity: 90 },
+
+    // YSL L'Homme Parfum Intense (ID: 183)
+    { id: 18301, originalId: 183, brand: "Zara", code: "Extreme 6.0", similarity: 90 },
+
+    // Chanel Allure Homme Sport (ID: 184)
+    { id: 18401, originalId: 184, brand: "Zara", code: "Extreme 12.0", similarity: 90 },
+
+    // Jean Paul Gaultier Le Beau (ID: 185)
+    { id: 18501, originalId: 185, brand: "Zara", code: "Extreme Fusion", similarity: 90 },
+
+    // Hermès Un Jardin En Méditerranée (ID: 186)
+    { id: 18601, originalId: 186, brand: "Zara", code: "Fig", similarity: 90 },
+
+    // Armani Code Profumo (ID: 187)
+    { id: 18701, originalId: 187, brand: "Zara", code: "For Him", similarity: 90 }
 ];
 
 export const getOriginals = () => originals;
