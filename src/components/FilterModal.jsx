@@ -29,17 +29,11 @@ const FilterModal = ({ isOpen, onClose, onApply, initialFilters }) => {
             const uniqueFamilies = [...new Set(families)].sort();
 
             // Extract Seasons
-            const seasons = originals.flatMap(o => (o.season || '').split('–').map(s => s.trim())).filter(Boolean);
-            // Split by '–' (en dash) and also check for standard dash if needed, though db uses en dash.
-            // Also handle "Dört Mevsim" which might be a single string.
-            // Let's normalize a bit.
-            const uniqueSeasons = [...new Set(seasons)].sort();
-
             setAvailableBrands(brands);
             setAvailableNotes(notes);
             setAvailableDupeBrands(availableDupeBrands);
             setAvailableScentFamilies(uniqueFamilies);
-            setAvailableSeasons(uniqueSeasons);
+            setAvailableSeasons(["Dört Mevsim", "Kış", "Sonbahar", "İlkbahar", "Yaz"]);
         }
     }, [isOpen, initialFilters]);
 
