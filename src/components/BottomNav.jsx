@@ -1,8 +1,10 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import { Compass, Heart, User, ArrowRightLeft } from 'lucide-react';
+import { Compass, Heart, User, ArrowRightLeft, PlusCircle } from 'lucide-react';
+import { useAuth } from '../context/AuthContext.jsx';
 
 const BottomNav = () => {
+    const { isAdmin } = useAuth();
     return (
         <nav className="glass-panel" style={{
             position: 'fixed',
@@ -66,6 +68,25 @@ const BottomNav = () => {
                 <ArrowRightLeft size={28} strokeWidth={1.5} />
                 <span style={{ fontSize: '11px', marginTop: '4px', fontWeight: '500', letterSpacing: '0.5px' }}>KIYASLA</span>
             </NavLink>
+
+            {isAdmin && (
+                <NavLink
+                    to="/admin"
+                    className={({ isActive }) => isActive ? "nav-item active" : "nav-item"}
+                    style={({ isActive }) => ({
+                        display: 'flex',
+                        flexDirection: 'column',
+                        alignItems: 'center',
+                        textDecoration: 'none',
+                        color: isActive ? '#D4AF37' : 'var(--text-muted)',
+                        transition: 'all 0.3s ease',
+                        transform: isActive ? 'translateY(-2px)' : 'none'
+                    })}
+                >
+                    <PlusCircle size={28} strokeWidth={1.5} />
+                    <span style={{ fontSize: '11px', marginTop: '4px', fontWeight: '500', letterSpacing: '0.5px' }}>EKLE</span>
+                </NavLink>
+            )}
 
             <NavLink
                 to="/profile"
