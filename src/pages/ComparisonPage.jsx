@@ -4,9 +4,10 @@ import { Link } from 'react-router-dom';
 import { Radar, RadarChart, PolarGrid, PolarAngleAxis, ResponsiveContainer, PolarRadiusAxis } from 'recharts';
 import { useComparison } from '../context/ComparisonContext';
 import { PriceService } from '../services/PriceService';
-import { products } from '../data/db';
+import { useProducts } from '../hooks/useProducts';
 
 const ComparisonPage = () => {
+    const { products } = useProducts();
     const { comparisonList, clearComparison } = useComparison();
     const [prices, setPrices] = useState({ item1: null, item2: null });
     const [showClearModal, setShowClearModal] = useState(false);
