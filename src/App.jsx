@@ -7,6 +7,7 @@ import HomePage from './pages/HomePage';
 import DetailPage from './pages/DetailPage';
 import FavoritesPage from './pages/FavoritesPage';
 import ProfilePage from './pages/ProfilePage';
+import AdminPage from './pages/AdminPage';
 
 import ComparisonPage from './pages/ComparisonPage';
 
@@ -25,6 +26,7 @@ function App() {
                             <Route path="/profile" element={<ProfilePage />} />
                         </Route>
                         <Route path="/detail/:id" element={<DetailPage />} />
+                        <Route path="/admin" element={<AdminPage />} />
                     </Routes>
                 </BrowserRouter>
             </ComparisonProvider>
