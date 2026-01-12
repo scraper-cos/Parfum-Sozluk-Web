@@ -77,6 +77,12 @@ const AdminPage = () => {
                     Yeni Parfüm
                 </button>
                 <button
+                    onClick={() => setMode('dupe')}
+                    style={{ padding: '8px 16px', borderRadius: '6px', border: 'none', backgroundColor: mode === 'dupe' ? '#D4AF37' : '#333', color: mode === 'dupe' ? 'black' : 'white', cursor: 'pointer' }}
+                >
+                    Muadil Ekle
+                </button>
+                <button
                     onClick={() => setMode('migration')}
                     style={{ padding: '8px 16px', borderRadius: '6px', border: 'none', backgroundColor: mode === 'migration' ? '#D4AF37' : '#333', color: mode === 'migration' ? 'black' : 'white', cursor: 'pointer' }}
                 >
@@ -91,6 +97,78 @@ const AdminPage = () => {
                 </div>
             )}
 
+            {/* DUPE MODE */}
+            {mode === 'dupe' && (
+                <form onSubmit={handleCreateDupe} style={{ maxWidth: '600px', display: 'flex', flexDirection: 'column', gap: '15px' }}>
+                    <div style={{ padding: '15px', backgroundColor: 'rgba(212, 175, 55, 0.1)', border: '1px solid #D4AF37', borderRadius: '8px', fontSize: '14px' }}>
+                        ℹ️ Önce listeden orijinal parfümü seçin, sonra muadil kodunu girin.
+                    </div>
+
+                    <div>
+                        <label style={{ display: 'block', fontSize: '12px', color: '#aaa', marginBottom: '5px' }}>Orijinal Parfüm Seç</label>
+                        <select
+                            required
+                            name="originalId"
+                            value={dupeFormData.originalId}
+                            onChange={handleDupeChange}
+                            style={{ width: '100%', padding: '10px', backgroundColor: '#252529', border: '1px solid #444', borderRadius: '6px', color: 'white' }}
+                        >
+                            <option value="">-- Parfüm Seçiniz --</option>
+                            {products.sort((a, b) => a.brand.localeCompare(b.brand)).map(p => (
+                                <option key={p.id} value={p.id}>
+                                    {p.brand} - {p.name}
+                                </option>
+                            ))}
+                        </select>
+                    </div>
+
+                    <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '15px' }}>
+                        <div>
+                            <label style={{ display: 'block', fontSize: '12px', color: '#aaa', marginBottom: '5px' }}>Muadil Markası</label>
+                            <select name="brand" value={dupeFormData.brand} onChange={handleDupeChange} style={{ width: '100%', padding: '10px', backgroundColor: '#252529', border: '1px solid #444', borderRadius: '6px', color: 'white' }}>
+                                <option value="Zara">Zara</option>
+                                <option value="Loris">Loris</option>
+                                <option value="Bargello">Bargello</option>
+                                <option value="Muscent">Muscent</option>
+                                <option value="Mad">Mad</option>
+                                <option value="David Walker">David Walker</option>
+                                <option value="Diğer">Diğer</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label style={{ display: 'block', fontSize: '12px', color: '#aaa', marginBottom: '5px' }}>Muadil Kodu / Adı</label>
+                            <input required name="code" value={dupeFormData.code} onChange={handleDupeChange} placeholder="Örn: 212 veya Rose Gourmand" style={{ width: '100%', padding: '10px', backgroundColor: '#252529', border: '1px solid #444', borderRadius: '6px', color: 'white' }} />
+                        </div>
+                    </div>
+
+                    <div>
+                        <label style={{ display: 'block', fontSize: '12px', color: '#aaa', marginBottom: '5px' }}>Benzerlik Oranı (%)</label>
+                        <input type="number" max="100" min="0" name="similarity" value={dupeFormData.similarity} onChange={handleDupeChange} placeholder="90" style={{ width: '100%', padding: '10px', backgroundColor: '#252529', border: '1px solid #444', borderRadius: '6px', color: 'white' }} />
+                    </div>
+
+                    <button
+                        type="submit"
+                        disabled={loading}
+                        style={{
+                            padding: '15px',
+                            backgroundColor: '#D4AF37',
+                            color: 'black',
+                            fontWeight: 'bold',
+                            border: 'none',
+                            borderRadius: '8px',
+                            cursor: loading ? 'not-allowed' : 'pointer',
+                            opacity: loading ? 0.7 : 1,
+                            marginTop: '10px',
+                            display: 'flex',
+                            justifyContent: 'center',
+                            alignItems: 'center',
+                            gap: '10px'
+                        }}
+                    >
+                        {loading ? 'Yükleniyor...' : <><Save size={20} /> Muadili Kaydet</>}
+                    </button>
+                </form>
+            )}
             {/* CREATE MODE */}
             {mode === 'create' && (
                 <form onSubmit={handleCreateOriginal} style={{ maxWidth: '600px', display: 'flex', flexDirection: 'column', gap: '15px' }}>
