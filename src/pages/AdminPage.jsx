@@ -9,7 +9,7 @@ import { useProducts } from '../hooks/useProducts';
 const AdminPage = () => {
     // Mode: 'create' | 'dupe' | 'migration'
     const [mode, setMode] = useState('create');
-    const { products } = useProducts();
+    const { products, dupes } = useProducts();
     const [loading, setLoading] = useState(false);
     const [message, setMessage] = useState(null);
 
@@ -26,8 +26,20 @@ const AdminPage = () => {
         productUrl: ''
     });
 
+    // Form State for Dupe
+    const [dupeFormData, setDupeFormData] = useState({
+        originalId: '',
+        brand: 'Zara',
+        code: '',
+        similarity: ''
+    });
+
     const handleChange = (e) => {
         setFormData({ ...formData, [e.target.name]: e.target.value });
+    };
+
+    const handleDupeChange = (e) => {
+        setDupeFormData({ ...dupeFormData, [e.target.name]: e.target.value });
     };
 
     const handleCreateOriginal = async (e) => {
