@@ -13,7 +13,7 @@ import ComparisonPage from './pages/ComparisonPage';
 
 
 
-import { AuthProvider } from './context/AuthContext';
+import { AuthProvider } from './context/AuthContext.jsx';
 
 function App() {
     return (
