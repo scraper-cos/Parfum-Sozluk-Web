@@ -12,7 +12,7 @@ const HomePage = () => {
     const navigate = useNavigate();
 
     // Retrieve products from Firestore
-    const { products: originals, loading: productsLoading } = useProducts();
+    const { products: originals, dupes, loading: productsLoading } = useProducts();
 
     const [searchTerm, setSearchTerm] = useState(() => {
         return sessionStorage.getItem('perfumeSearchTerm') || '';
