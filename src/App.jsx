@@ -13,24 +13,28 @@ import ComparisonPage from './pages/ComparisonPage';
 
 
 
+import { AuthProvider } from './context/AuthContext';
+
 function App() {
     return (
-        <FavoritesProvider>
-            <ComparisonProvider>
-                <BrowserRouter>
-                    <Routes>
-                        <Route element={<Layout />}>
-                            <Route path="/" element={<HomePage />} />
-                            <Route path="/favorites" element={<FavoritesPage />} />
-                            <Route path="/comparison" element={<ComparisonPage />} />
-                            <Route path="/profile" element={<ProfilePage />} />
-                        </Route>
-                        <Route path="/detail/:id" element={<DetailPage />} />
-                        <Route path="/admin" element={<AdminPage />} />
-                    </Routes>
-                </BrowserRouter>
-            </ComparisonProvider>
-        </FavoritesProvider>
+        <AuthProvider>
+            <FavoritesProvider>
+                <ComparisonProvider>
+                    <BrowserRouter>
+                        <Routes>
+                            <Route element={<Layout />}>
+                                <Route path="/" element={<HomePage />} />
+                                <Route path="/favorites" element={<FavoritesPage />} />
+                                <Route path="/comparison" element={<ComparisonPage />} />
+                                <Route path="/profile" element={<ProfilePage />} />
+                            </Route>
+                            <Route path="/detail/:id" element={<DetailPage />} />
+                            <Route path="/admin" element={<AdminPage />} />
+                        </Routes>
+                    </BrowserRouter>
+                </ComparisonProvider>
+            </FavoritesProvider>
+        </AuthProvider>
     );
 }
 
