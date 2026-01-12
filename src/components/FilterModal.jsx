@@ -11,6 +11,7 @@ const FilterModal = ({ isOpen, onClose, onApply, initialFilters }) => {
     const [availableSeasons, setAvailableSeasons] = useState([]);
 
 
+
     useEffect(() => {
         if (isOpen) {
             setFilters(initialFilters);
