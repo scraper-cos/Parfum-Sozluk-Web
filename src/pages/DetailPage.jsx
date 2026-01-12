@@ -1,13 +1,15 @@
 import React from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import { ArrowLeft, Star, Heart } from 'lucide-react';
-import { getOriginalById, getDupesByOriginalId } from '../data/db';
+import { useProducts } from '../hooks/useProducts';
 import { useFavorites } from '../context/FavoritesContext';
 
 const DetailPage = () => {
     const { id } = useParams();
     const navigate = useNavigate();
-    const perfume = getOriginalById(id);
+    const { products, getDupesByOriginalId } = useProducts();
+
+    const perfume = products.find(p => p.id === Number(id));
     const dupes = getDupesByOriginalId(id);
     const { isFavorite, toggleFavorite } = useFavorites();
 
