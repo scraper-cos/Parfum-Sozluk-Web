@@ -3,7 +3,6 @@ import { db } from '../firebase';
 import { doc, setDoc, updateDoc, arrayUnion } from 'firebase/firestore';
 import { ArrowLeft, Plus, Save, Upload, Tag } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import FirebaseMigrator from '../components/FirebaseMigrator';
 import { useProducts } from '../hooks/useProducts';
 
 const AdminPage = () => {
@@ -128,12 +127,6 @@ const AdminPage = () => {
                     style={{ padding: '8px 16px', borderRadius: '6px', border: 'none', backgroundColor: mode === 'dupe' ? '#D4AF37' : '#333', color: mode === 'dupe' ? 'black' : 'white', cursor: 'pointer' }}
                 >
                     Muadil Ekle
-                </button>
-                <button
-                    onClick={() => setMode('migration')}
-                    style={{ padding: '8px 16px', borderRadius: '6px', border: 'none', backgroundColor: mode === 'migration' ? '#D4AF37' : '#333', color: mode === 'migration' ? 'black' : 'white', cursor: 'pointer' }}
-                >
-                    Veri Aktarımı
                 </button>
             </div>
 
