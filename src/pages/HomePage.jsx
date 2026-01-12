@@ -1,14 +1,19 @@
 import React, { useState, useEffect } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { Search, Heart, SlidersHorizontal, ArrowRightLeft, AlertTriangle } from 'lucide-react';
 import { App } from '@capacitor/app';
-import { getOriginals, dupes } from '../data/db';
+import { useProducts } from '../hooks/useProducts'; // Updated hook
 import { useFavorites } from '../context/FavoritesContext';
 import { useComparison } from '../context/ComparisonContext';
 import FilterModal from '../components/FilterModal';
 
 const HomePage = () => {
     const navigate = useNavigate();
+
+    // Retrieve products from Firestore
+    const { products: originals, loading: productsLoading } = useProducts();
+
     const [searchTerm, setSearchTerm] = useState(() => {
         return sessionStorage.getItem('perfumeSearchTerm') || '';
     });
@@ -27,7 +32,7 @@ const HomePage = () => {
         return saved ? { ...defaults, ...JSON.parse(saved) } : defaults;
     });
 
-    const originals = getOriginals();
+    // const originals = getOriginals(); // Removed static call
     const { isFavorite, toggleFavorite } = useFavorites();
     const { addToComparison, isInComparison, comparisonList } = useComparison();
 
