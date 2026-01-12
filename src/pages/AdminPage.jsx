@@ -73,6 +73,41 @@ const AdminPage = () => {
         }
     };
 
+    const handleCreateDupe = async (e) => {
+        e.preventDefault();
+        setLoading(true);
+        setMessage(null);
+
+        try {
+            // Generate a new ID (Max ID + 1 from dupes)
+            const maxId = dupes && dupes.length > 0 ? Math.max(...dupes.map(d => d.id)) : 1000;
+            const newId = maxId + 1;
+            const selectedProduct = products.find(p => p.id === Number(dupeFormData.originalId));
+
+            if (!selectedProduct) throw new Error("Lütfen bir orijinal parfüm seçin.");
+
+            const newDupe = {
+                id: newId,
+                originalId: Number(dupeFormData.originalId),
+                brand: dupeFormData.brand,
+                code: dupeFormData.code,
+                similarity: Number(dupeFormData.similarity) || 0,
+                createdAt: new Date().toISOString()
+            };
+
+            await setDoc(doc(db, 'dupe_mappings', newId.toString()), newDupe);
+
+            setMessage({ type: 'success', text: `✅ ${newDupe.brand} - ${newDupe.code} muadili, ${selectedProduct.name} için eklendi! (ID: ${newId})` });
+            setDupeFormData({ ...dupeFormData, code: '', similarity: '' });
+
+        } catch (error) {
+            console.error(error);
+            setMessage({ type: 'error', text: 'Hata oluştu: ' + error.message });
+        } finally {
+            setLoading(false);
+        }
+    };
+
     return (
         <div style={{ minHeight: '100vh', backgroundColor: '#1A1A1D', color: 'white', padding: '20px' }}>
             <div style={{ display: 'flex', alignItems: 'center', marginBottom: '20px', gap: '15px' }}>
