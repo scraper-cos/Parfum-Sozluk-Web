@@ -36,3 +36,11 @@ dist-ssr
 # Temporary files
 tmp/
 temp/
+
+# Firebase Admin Service Account (NEVER commit this!)
+firebase-service-account.json
+
+# Scraper outputs and backups
+prices-backup.json
+debug*.html
+debug*.png
